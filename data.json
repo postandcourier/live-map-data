@@ -262,23 +262,6 @@
       "properties": {
         "marker-color": "#0075d9",
         "marker-size": "medium",
-        "marker-symbol": "water",
-        "title": "CWS Crews repairing water main",
-        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">Azalea Dr near Baker Hospital Blvd closed for wm repair. 24&quot; pipe installed 1927 <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"http://t.co/ZTh3kd2gkJ\">pic.twitter.com/ZTh3kd2gkJ</a></p>&mdash; Charleston Water (@ChasWaterSystem) <a href=\"https://twitter.com/ChasWaterSystem/status/615925198152404992\">June 30, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9678087234497,
-          32.84240321243907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "medium",
         "marker-symbol": "camera",
         "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">24&quot; main break repair on Azalea Dr. Pumped out water to reach pipe. 4-foot section of 1927 pipe blew out. <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"http://t.co/6J8D3Aw6Ci\">pic.twitter.com/6J8D3Aw6Ci</a></p>&mdash; Charleston Water (@ChasWaterSystem) <a href=\"https://twitter.com/ChasWaterSystem/status/615931131960147968\">June 30, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
       },
