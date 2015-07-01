@@ -384,22 +384,6 @@
           33.58939277398873
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "cinema",
-        "description": "<div id=\"fb-root\"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3\";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class=\"fb-video\" data-allowfullscreen=\"1\" data-href=\"https://www.facebook.com/thekingstreenews/videos/873324342758842/\"><div class=\"fb-xfbml-parse-ignore\"><blockquote cite=\"/thekingstreenews/videos/873324342758842/\"><a href=\"/thekingstreenews/videos/873324342758842/\"></a><p>UPDATEFire has gutted the Mt. Zion AME Church on Highway 375 in Greeleyville. Williamsburg, Kingstree, Clarendon, Berkeley, and South Lynches Fire Departments are fighting the fire. Williamsburg County Sheriffs Office is one site and SLED are en route. No injuries to report. Law enforcement will provide a press release. A lightening storm passed through the area this afternoon. Senator Ronnie Sabb arrived as the firefighters were putting out the blaze. He said it is just an unfortunate occurrence and all we know at this point. &quot;We will find out what the cause is. We know that we had a very sharp lightening storm earlier tonight so it very well could be that.&quot;</p>Posted by <a href=\"https://www.facebook.com/thekingstreenews\">The News - Kingstree</a> on Tuesday, June 30, 2015</blockquote></div></div>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98643398284912,
-          33.58361009893077
-        ]
-      }
     }
   ]
 }
