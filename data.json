@@ -320,6 +320,22 @@
           33.69506601932627
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "camera",
+        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">Pic by Cheryl Oliver of fire at Mount Zion AME Church in Greeleyville, 60 miles north of Charleston. <a href=\"https://twitter.com/hashtag/ChurchFires?src=hash\">#ChurchFires</a> <a href=\"http://t.co/5CNFwePXhA\">pic.twitter.com/5CNFwePXhA</a></p>&mdash; Andrew Knapp (@offlede) <a href=\"https://twitter.com/offlede/status/616061298426707969\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97969627380371,
+          33.58623782312002
+        ]
+      }
     }
   ]
 }
