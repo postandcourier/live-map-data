@@ -304,6 +304,22 @@
           33.586613205757345
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "fire-station",
+        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">Williamsburg County dispatch would not provide any information about the blaze, but Clarendon County said they were assisting <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Melissa Boughton (@mboughtonPC) <a href=\"https://twitter.com/mboughtonPC/status/616059156278087680\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21126747131348,
+          33.69506601932627
+        ]
+      }
     }
   ]
 }
