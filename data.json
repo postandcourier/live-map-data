@@ -352,6 +352,22 @@
           33.584164251506635
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "camera",
+        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/rolandsmartin\">@rolandsmartin</a> I&#39;m here on site right now. <a href=\"https://twitter.com/hashtag/BlackLivesMatter?src=hash\">#BlackLivesMatter</a> <a href=\"http://t.co/0dZQGG5nh2\">pic.twitter.com/0dZQGG5nh2</a></p>&mdash; Cezar E. McKnight (@cezarmcknight) <a href=\"https://twitter.com/cezarmcknight/status/616072767625105408\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98881578445435,
+          33.58623782312002
+        ]
+      }
     }
   ]
 }
