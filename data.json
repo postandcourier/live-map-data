@@ -336,6 +336,22 @@
           33.58623782312002
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "library",
+        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">As Zion AME in Greeleyville burns, concerns grow amid rash of new black church burnings across South <a href=\"http://t.co/d3K1pk3yKD\">http://t.co/d3K1pk3yKD</a> <a href=\"https://twitter.com/postandcourier\">@postandcourier</a></p>&mdash; Jennifer Berry Hawes (@JenBerryHawes) <a href=\"https://twitter.com/JenBerryHawes/status/616067655154409472\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98175621032715,
+          33.584164251506635
+        ]
+      }
     }
   ]
 }
