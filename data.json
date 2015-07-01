@@ -97,6 +97,22 @@
           32.792469660160876
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">ICYMI: <a href=\"https://twitter.com/hashtag/Missing?src=hash\">#Missing</a> <a href=\"https://twitter.com/hashtag/WestAshley?src=hash\">#WestAshley</a> man located. <a href=\"http://t.co/3FwW0UB3F3\">http://t.co/3FwW0UB3F3</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"http://t.co/1KmyWEgZ5n\">pic.twitter.com/1KmyWEgZ5n</a></p>&mdash; The Post and Courier (@postandcourier) <a href=\"https://twitter.com/postandcourier/status/616320490282467328\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03351211547852,
+          32.821506307057206
+        ]
+      }
     }
   ]
 }
