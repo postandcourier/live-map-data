@@ -112,6 +112,23 @@
           33.58939277398873
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "title": "Boil water advisory lifted",
+        "description": "The Charleston Water System reports that water is safe to drink."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94218826293945,
+          32.792469660160876
+        ]
+      }
     }
   ]
 }
