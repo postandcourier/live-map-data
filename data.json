@@ -272,6 +272,22 @@
           32.8415198362813
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">JUST IN: Police investigating torso found at Dolphin Cove Marina <a href=\"http://t.co/Id5VNUQ1k2\">http://t.co/Id5VNUQ1k2</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Melissa Boughton (@mboughtonPC) <a href=\"https://twitter.com/mboughtonPC/status/616046033592684544\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96577024459839,
+          32.82971059654399
+        ]
+      }
     }
   ]
 }
