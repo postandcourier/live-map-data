@@ -368,6 +368,22 @@
           33.58623782312002
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">BREAKING: ATF on the scene at Mt. Zion AME church fire in Greeleyville, SC.</p>&mdash; ATF HQ (@ATFHQ) <a href=\"https://twitter.com/ATFHQ/status/616071242785943552\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9812090396881,
+          33.58939277398873
+        ]
+      }
     }
   ]
 }
