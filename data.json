@@ -58,7 +58,8 @@
         "marker-size": "medium",
         "marker-symbol": "camera",
         "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Someone who was on the scene of the moncks corner plane crash gave me this photo. <a href=\"http://t.co/xovTKi4uE2\">pic.twitter.com/xovTKi4uE2</a></p>&mdash; brenda rindge (@brindge) <a href=\"https://twitter.com/brindge/status/618453265349496832\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "title": "Photo of wreckage of crash"
+        "title": "Photo of wreckage of crash",
+        "timestamp": "2015-07-07 12:31:51"
       },
       "geometry": {
         "type": "Point",
