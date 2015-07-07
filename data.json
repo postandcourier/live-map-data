@@ -121,6 +121,24 @@
           34.00005525590765
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "airfield",
+        "title": "NTSB confirms 2 deaths from place crash",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">NTSB has confirmed 2 people aboard Cessna plane that collided with F16 were killed, no IDs released <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Melissa Boughton (@mboughtonPC) <a href=\"https://twitter.com/mboughtonPC/status/618517914442964992\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "timestamp": "2015-07-07 16:37:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0035572052002,
+          33.15882250048661
+        ]
+      }
     }
   ]
 }
