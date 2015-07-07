@@ -34,6 +34,22 @@
           34.00025093693545
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "airfield",
+        "description": "Temporary command post established"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00214099884033,
+          33.184865639687736
+        ]
+      }
     }
   ]
 }
