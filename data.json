@@ -88,6 +88,24 @@
           33.15716984716873
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "title": "Rescue vehicles en route",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Rescue vehicles bypassing Lewisfield Plantation for Mulberry now. <a href=\"https://twitter.com/hashtag/chs?src=hash\">#chs</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"http://t.co/0w1TgICQed\">pic.twitter.com/0w1TgICQed</a></p>&mdash; brenda rindge (@brindge) <a href=\"https://twitter.com/brindge/status/618457468323123200\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "timestamp": "2015-07-07 12:50:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01424312591551,
+          33.16828872961939
+        ]
+      }
     }
   ]
 }
