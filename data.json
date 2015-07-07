@@ -4,96 +4,16 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#ff4136",
         "marker-size": "large",
-        "marker-symbol": "fire-station",
-        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">STORY: Fire crews responding to blaze at African American church in <a href=\"https://twitter.com/hashtag/Greeleyville?src=hash\">#Greeleyville</a> <a href=\"http://t.co/3jAdwoulHA\">http://t.co/3jAdwoulHA</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Melissa Boughton (@mboughtonPC) <a href=\"https://twitter.com/mboughtonPC/status/616055851862765569\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+        "marker-symbol": "airfield",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">DEVELOPING: Reports of plane crash involving two planes near Lewisfield Plantation in <a href=\"https://twitter.com/hashtag/MoncksCorner?src=hash\">#MoncksCorner</a>. <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; The Post and Courier (@postandcourier) <a href=\"https://twitter.com/postandcourier/status/618440443836149760\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.98381614685059,
-          33.586613205757345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">Pic by Cheryl Oliver of fire at Mount Zion AME Church in Greeleyville, 60 miles north of Charleston. <a href=\"https://twitter.com/hashtag/ChurchFires?src=hash\">#ChurchFires</a> <a href=\"http://t.co/5CNFwePXhA\">pic.twitter.com/5CNFwePXhA</a></p>&mdash; Andrew Knapp (@offlede) <a href=\"https://twitter.com/offlede/status/616061298426707969\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.97969627380371,
-          33.58623782312002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "library",
-        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">As Zion AME in Greeleyville burns, concerns grow amid rash of new black church burnings across South <a href=\"http://t.co/d3K1pk3yKD\">http://t.co/d3K1pk3yKD</a> <a href=\"https://twitter.com/postandcourier\">@postandcourier</a></p>&mdash; Jennifer Berry Hawes (@JenBerryHawes) <a href=\"https://twitter.com/JenBerryHawes/status/616067655154409472\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98175621032715,
-          33.584164251506635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/rolandsmartin\">@rolandsmartin</a> I&#39;m here on site right now. <a href=\"https://twitter.com/hashtag/BlackLivesMatter?src=hash\">#BlackLivesMatter</a> <a href=\"http://t.co/0dZQGG5nh2\">pic.twitter.com/0dZQGG5nh2</a></p>&mdash; Cezar E. McKnight (@cezarmcknight) <a href=\"https://twitter.com/cezarmcknight/status/616072767625105408\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98881578445435,
-          33.58623782312002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#fa4a31",
-        "marker-size": "medium",
-        "marker-symbol": "star",
-        "description": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\">BREAKING: ATF on the scene at Mt. Zion AME church fire in Greeleyville, SC.</p>&mdash; ATF HQ (@ATFHQ) <a href=\"https://twitter.com/ATFHQ/status/616071242785943552\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9812090396881,
-          33.58939277398873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">ICYMI: <a href=\"https://twitter.com/hashtag/Missing?src=hash\">#Missing</a> <a href=\"https://twitter.com/hashtag/WestAshley?src=hash\">#WestAshley</a> man located. <a href=\"http://t.co/3FwW0UB3F3\">http://t.co/3FwW0UB3F3</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"http://t.co/1KmyWEgZ5n\">pic.twitter.com/1KmyWEgZ5n</a></p>&mdash; The Post and Courier (@postandcourier) <a href=\"https://twitter.com/postandcourier/status/616320490282467328\">July 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.03351211547852,
-          32.821506307057206
+          -79.99866485595703,
+          33.16025956501229
         ]
       }
     }
