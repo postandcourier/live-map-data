@@ -75,24 +75,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "camera",
-        "title": "Press Conf. Soon",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Officials plan to have a presser in a few minutes. <a href=\"https://twitter.com/hashtag/chs?src=hash\">#chs</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"http://t.co/Oi1s3PqEUY\">pic.twitter.com/Oi1s3PqEUY</a></p>&mdash; brenda rindge (@brindge) <a href=\"https://twitter.com/brindge/status/618463523602071552\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "timestamp": "2015-07-07 13:00:08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0025486946106,
-          33.18402160411358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
         "marker-size": "large",
         "marker-symbol": "airfield",
         "title": "BREAKING: Shaw AFB Confirms Crash",
