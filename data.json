@@ -8,7 +8,8 @@
         "marker-size": "large",
         "marker-symbol": "airfield",
         "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">.<a href=\"https://twitter.com/FAANews\">@FAANews</a> confirms midair collision over Berkeley County involving F-16 military jet and Cessna 150 private aircraft. <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Andrew Knapp (@offlede) <a href=\"https://twitter.com/offlede/status/618452895894274048\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "title": "BREAKING: F-16 collides with private aircraft"
+        "title": "BREAKING: F-16 collides with private aircraft",
+        "timestamp": "2015-07-07 12:13:00"
       },
       "geometry": {
         "type": "Point",
