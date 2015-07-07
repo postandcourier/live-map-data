@@ -16,6 +16,23 @@
           33.16025956501229
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "town-hall",
+        "title": "SC General Assembly debates confederate flag",
+        "description": "Check for live vote results at <a href=\"http://www.postandcourier.com/flag-votes\">postandcourier.com/flag-votes</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03309631347656,
+          34.00025093693545
+        ]
+      }
     }
   ]
 }
