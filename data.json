@@ -42,7 +42,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "airfield",
+        "marker-symbol": "police",
         "description": "Temporary command post established"
       },
       "geometry": {
