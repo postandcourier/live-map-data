@@ -68,6 +68,24 @@
           33.157133919576815
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">PHOTOS: Wreckage burns at the scene of the <a href=\"https://twitter.com/hashtag/planecrash?src=hash\">#planecrash</a> in <a href=\"https://twitter.com/hashtag/BerkeleyCounty?src=hash\">#BerkeleyCounty</a>. <a href=\"http://t.co/YmKmKgDSZz\">http://t.co/YmKmKgDSZz</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"http://t.co/tJS76hIjHw\">pic.twitter.com/tJS76hIjHw</a></p>&mdash; The Post and Courier (@postandcourier) <a href=\"https://twitter.com/postandcourier/status/618457011626360832\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "title": "More photos of wreckage",
+        "timestamp": "2015-07-07 12:35:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99750614166258,
+          33.15716984716873
+        ]
+      }
     }
   ]
 }
