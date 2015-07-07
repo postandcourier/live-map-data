@@ -128,7 +128,9 @@
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "car",
-        "title": "Traffic Reported I26 N"
+        "title": "Accident causing traffic I26 N",
+        "description": "Left two lanes blocked due to car on fire",
+        "timestamp": "2015-07-07 14:29:59"
       },
       "geometry": {
         "type": "Point",
