@@ -121,6 +121,22 @@
           34.00005525590765
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "title": "Traffic Reported I26 N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01952171325682,
+          32.89659683493188
+        ]
+      }
     }
   ]
 }
