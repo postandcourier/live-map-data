@@ -4,24 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
-        "marker-symbol": "airfield",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">.<a href=\"https://twitter.com/FAANews\">@FAANews</a> confirms midair collision over Berkeley County involving F-16 military jet and Cessna 150 private aircraft. <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Andrew Knapp (@offlede) <a href=\"https://twitter.com/offlede/status/618452895894274048\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "title": "BREAKING: F-16 collides with private aircraft",
-        "timestamp": "2015-07-07 12:13:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.99866485595703,
-          33.16025956501229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#0075d9",
         "marker-size": "medium",
         "marker-symbol": "town-hall",
@@ -122,6 +104,24 @@
         "coordinates": [
           -80.0025486946106,
           33.18402160411358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "large",
+        "marker-symbol": "airfield",
+        "title": "BREAKING: Shaw AFB Confirms Crash",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">A Shaw AFB F-16 fighting falcon crashed today near Joint Base Charleston at 11:30 a.m. The pilot on board is accounted for.</p>&mdash; Shaw Air Force Base (@20FighterWing) <a href=\"https://twitter.com/20FighterWing/status/618464890823548929\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "timestamp": "2015-07-07 13:07:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99984502792358,
+          33.160079933234464
         ]
       }
     }
