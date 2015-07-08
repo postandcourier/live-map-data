@@ -89,42 +89,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "medium",
-        "marker-symbol": "town-hall",
-        "title": "CCSD to vote tomorrow on embattled superintendent",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">CCSD school board will vote on a  contract tomorrow for the new (already embattled) superintendent: <a href=\"http://t.co/DKmkmhEPAY\">http://t.co/DKmkmhEPAY</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Deanna Pan (@DDpan) <a href=\"https://twitter.com/DDpan/status/618472096583282688\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "timestamp": "2015-07-07 13:35:37"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.01291275024414,
-          32.8429981342851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "large",
-        "marker-symbol": "town-hall",
-        "title": "SC House votes to debate Senate bill",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Still tracking other news: House votes to debate Senate bill on <a href=\"https://twitter.com/hashtag/ConfederateFlag?src=hash\">#ConfederateFlag</a>, debate tmr <a href=\"http://t.co/9uUfoHxGfL\">http://t.co/9uUfoHxGfL</a> <a href=\"http://t.co/i0i0T495Xn\">pic.twitter.com/i0i0T495Xn</a></p>&mdash; Jason Emory Parker (@jaspar) <a href=\"https://twitter.com/jaspar/status/618481218095611904\">July 7, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "timestamp": "2015-07-07 14:08:59"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.03307485580444,
-          34.00005525590765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "airfield",
