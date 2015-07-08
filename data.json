@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#0075d9",
         "marker-size": "large",
         "marker-symbol": "police",
-        "title": "Officials responding to bomb threat",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">DEVELOPING: <a href=\"https://twitter.com/IOPPD\">@IOPPD</a>, <a href=\"https://twitter.com/ChasCoSheriff\">@ChasCoSheriff</a> responding to bomb threat in <a href=\"https://twitter.com/hashtag/IsleofPalms?src=hash\">#IsleofPalms</a>. <a href=\"http://t.co/HMXpV4FUgF\">http://t.co/HMXpV4FUgF</a> <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"https://twitter.com/hashtag/IOP?src=hash\">#IOP</a></p>&mdash; The Post and Courier (@postandcourier) <a href=\"https://twitter.com/postandcourier/status/618866558253858816\">July 8, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "timestamp": "2015-07-07 15:43:29"
+        "title": "Bomb threat over",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">JUST IN: bomb threat at Windjammer in <a href=\"https://twitter.com/hashtag/IsleofPalms?src=hash\">#IsleofPalms</a> over, building determined safe <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Melissa Boughton (@mboughtonPC) <a href=\"https://twitter.com/mboughtonPC/status/618880948868878336\">July 8, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "timestamp": "2015-07-07 16:40:29"
       },
       "geometry": {
         "type": "Point",
