@@ -4,18 +4,17 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "large",
-        "marker-symbol": "police",
-        "title": "Bomb threat over",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">JUST IN: bomb threat at Windjammer in <a href=\"https://twitter.com/hashtag/IsleofPalms?src=hash\">#IsleofPalms</a> over, building determined safe <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a></p>&mdash; Melissa Boughton (@mboughtonPC) <a href=\"https://twitter.com/mboughtonPC/status/618880948868878336\">July 8, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "timestamp": "2015-07-07 16:40:29"
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "title": "Accident Reported I-26W",
+        "description": "Reported via Waze"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.79021430015564,
-          32.78488430298989
+          -80.04814624786376,
+          32.9362973561059
         ]
       }
     }
