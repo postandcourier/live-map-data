@@ -4,17 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "car",
-        "title": "Accident Reported I-26W",
-        "description": "Reported via Waze"
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.04814624786376,
-          32.9362973561059
+          -79.94098663330078,
+          32.78958351251041
         ]
       }
     }
