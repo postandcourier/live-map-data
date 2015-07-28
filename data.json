@@ -4,45 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#85144a",
-        "stroke-width": 5,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.93428111076355,
-            32.786706290851114
-          ],
-          [
-            -79.9318939447403,
-            32.7877615835843
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
-        "marker-symbol": "roadblock",
-        "title": "Gas leak on Calhoun St",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Calhoun remains closed between Meeting and Anson because of gas leak. <a href=\"http://t.co/lQB6TK2FYO\">http://t.co/lQB6TK2FYO</a></p>&mdash; dave munday  (@dmunday) <a href=\"https://twitter.com/dmunday/status/626025836194476032\">July 28, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-        "timesteam": "2015-07-28 9:50:59"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93306338787079,
-          32.78723393878272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 0,
