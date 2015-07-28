@@ -29,7 +29,8 @@
         "marker-size": "large",
         "marker-symbol": "roadblock",
         "title": "Gas leak on Calhoun St",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Calhoun remains closed between Meeting and Anson because of gas leak. <a href=\"http://t.co/lQB6TK2FYO\">http://t.co/lQB6TK2FYO</a></p>&mdash; dave munday  (@dmunday) <a href=\"https://twitter.com/dmunday/status/626025836194476032\">July 28, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Calhoun remains closed between Meeting and Anson because of gas leak. <a href=\"http://t.co/lQB6TK2FYO\">http://t.co/lQB6TK2FYO</a></p>&mdash; dave munday  (@dmunday) <a href=\"https://twitter.com/dmunday/status/626025836194476032\">July 28, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "timesteam": "2015-07-28 9:50:59"
       },
       "geometry": {
         "type": "Point",
