@@ -288,7 +288,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff2600",
+        "stroke": "#2fcc40",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -309,11 +309,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Calhoun @ 4th, One lane closed",
-        "timestamp": "2015-09-30 11:29:22"
+        "title": "REOPENED: Calhoun @ 4th, One lane closed",
+        "timestamp": "2015-09-30 11:51:22"
       },
       "geometry": {
         "type": "Point",
