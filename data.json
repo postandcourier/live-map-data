@@ -22,6 +22,44 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9456375837326,
+            32.77784855406607
+          ],
+          [
+            -79.94505286216734,
+            32.77809661877882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Road closed",
+        "timestamp": "2015-09-30 11:01:08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94535326957701,
+          32.77797033137511
+        ]
+      }
     }
   ]
 }
