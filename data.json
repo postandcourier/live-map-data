@@ -322,6 +322,23 @@
           32.78177240574296
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Hagood @ Fishburne",
+        "timestamp": "2015-09-30 11:33:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95624303817749,
+          32.79160382570016
+        ]
+      }
     }
   ]
 }
