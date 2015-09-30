@@ -284,6 +284,44 @@
           32.77611659207484
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.95113611221312,
+            32.781664163879796
+          ],
+          [
+            -79.95027780532837,
+            32.78189868775024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Calhoun @ 4th, One lane closed",
+        "timestamp": "2015-09-30 11:29:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95071768760681,
+          32.78177240574296
+        ]
+      }
     }
   ]
 }
