@@ -60,6 +60,44 @@
           32.77797033137511
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9300754070282,
+            32.780771163483735
+          ],
+          [
+            -79.92919564247131,
+            32.78085234570831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "S. Market @ Church",
+        "timestamp": "2015-09-30 11:03:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92961406707764,
+          32.78080724448156
+        ]
+      }
     }
   ]
 }
