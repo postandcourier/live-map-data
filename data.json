@@ -26,27 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
-        "stroke-width": 5,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.9456375837326,
-            32.77784855406607
-          ],
-          [
-            -79.94505286216734,
-            32.77809661877882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
@@ -177,32 +156,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff2600",
-        "stroke-width": 5,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.94478464126587,
-            32.77696453601168
-          ],
-          [
-            -79.94381904602051,
-            32.77522353600098
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Barre St",
-        "timestamp": "2015-09-30 11:27:16"
+        "title": "REOPENED: Barre St",
+        "timestamp": "2015-09-30 15:41:00"
       },
       "geometry": {
         "type": "Point",
