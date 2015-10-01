@@ -26,27 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#2fcc40",
-        "stroke-width": 5,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.95113611221312,
-            32.781664163879796
-          ],
-          [
-            -79.95027780532837,
-            32.78189868775024
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ff4136",
         "stroke-width": 5,
         "stroke-opacity": 1
