@@ -237,10 +237,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Lockwood @ Broad REOPENED",
+        "title": "Lockwood @ Broad ONE LANE",
         "timestamp": "2015-10-01 14:46:00"
       },
       "geometry": {
