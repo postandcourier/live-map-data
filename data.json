@@ -183,7 +183,7 @@
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "E Bay from Jackson to Cooper CLOSED",
-        "timstamp": "2015-10-01 13:27:00"
+        "timestamp": "2015-10-01 13:27:00"
       },
       "geometry": {
         "type": "Point",
