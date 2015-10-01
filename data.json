@@ -746,6 +746,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Line @ Hagood CLOSED",
+        "timestamp": "2015-10-01 13:54:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9555242061615,
+          32.78996232472926
+        ]
+      }
     }
   ]
 }
