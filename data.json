@@ -196,7 +196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -237,11 +237,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Lockwood @ Broad CLOSED",
-        "timestamp": "2015-10-01 13:28:00"
+        "title": "Lockwood @ Broad REOPENED",
+        "timestamp": "2015-10-01 14:46:00"
       },
       "geometry": {
         "type": "Point",
