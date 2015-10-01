@@ -744,6 +744,56 @@
           32.7844964492712
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffdc00",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.95120048522949,
+            32.780130723337194
+          ],
+          [
+            -79.95027780532837,
+            32.77961656382711
+          ],
+          [
+            -79.94946241378783,
+            32.77918358509306
+          ],
+          [
+            -79.94829297065735,
+            32.77857921542037
+          ],
+          [
+            -79.94768142700195,
+            32.77825447778141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2fcc40",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Lockwood S OPEN",
+        "timestamp": "2015-10-01 15:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94938731193542,
+          32.779129462603166
+        ]
+      }
     }
   ]
 }
