@@ -43,6 +43,44 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9488615989685,
+            32.799991242304564
+          ],
+          [
+            -79.9480676651001,
+            32.8003970649762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "title": "King @ Huger",
+        "timestamp": "2015-10-01 13:17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.948410987854,
+          32.80020768129331
+        ]
+      }
     }
   ]
 }
