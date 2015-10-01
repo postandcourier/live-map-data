@@ -436,7 +436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 8,
         "stroke-opacity": 1
       },
@@ -657,10 +657,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "large",
         "marker-symbol": "roadblock",
-        "title": "Crosstown SHUTDOWN",
+        "title": "Crosstown REOPENED",
         "timestamp": "2015-10-01 14:22:30"
       },
       "geometry": {
