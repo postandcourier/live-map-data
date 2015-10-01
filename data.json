@@ -131,7 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -164,10 +164,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "E Bay from Jackson to Cooper CLOSED",
+        "title": "E Bay from Jackson to Cooper REOPENED",
         "timestamp": "2015-10-01 13:27:00"
       },
       "geometry": {
