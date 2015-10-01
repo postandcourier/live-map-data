@@ -641,27 +641,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -80.01749396324158,
-            32.89852463081369
-          ],
-          [
-            -80.01606702804565,
-            32.89895702786722
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ff4136",
-        "stroke-width": 5,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -79.95450496673584,
             32.78680550694045
           ],
