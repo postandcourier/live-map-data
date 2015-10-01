@@ -81,11 +81,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "N Market @ E Bay CLOSED",
-        "timestamp": "2015-10-01 13:21:00"
+        "title": "N Market @ E Bay REOPENED",
+        "timestamp": "2015-10-01 15:08:00"
       },
       "geometry": {
         "type": "Point",
