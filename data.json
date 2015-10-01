@@ -250,6 +250,23 @@
           32.77517843192112
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Wentworth @ Barre CLOSED",
+        "timestamp": "2015-10-01 13:29:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94533181190491,
+          32.77795680057122
+        ]
+      }
     }
   ]
 }
