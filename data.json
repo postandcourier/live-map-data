@@ -780,6 +780,23 @@
           32.79161284485258
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Nassau @ Cooper CLOSED",
+        "timstamp": "2015-10-01 13:56:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94001030921936,
+          32.79769154550846
+        ]
+      }
     }
   ]
 }
