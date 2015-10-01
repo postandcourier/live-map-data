@@ -98,6 +98,23 @@
           32.780617819079666
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "N Market @ E Bay CLOSED",
+        "timestamp": "2015-10-01 13:21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92737174034119,
+          32.781177073865805
+        ]
+      }
     }
   ]
 }
