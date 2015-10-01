@@ -411,6 +411,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Nothing like <a href=\"https://twitter.com/hashtag/charleston?src=hash\">#charleston</a> in the rain <a href=\"http://t.co/7lr1FL8d1C\">pic.twitter.com/7lr1FL8d1C</a></p>&mdash; Glenn Smith (@glennsmith5) <a href=\"https://twitter.com/glennsmith5/status/649637911734972416\">October 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94215607643127,
+          32.789321950751
+        ]
+      }
     }
   ]
 }
