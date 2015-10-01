@@ -64,11 +64,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "S Market @ Meeting CLOSED",
-        "timestamp": "2015-10-01 13:20:00"
+        "title": "S Market @ Meeting REOPENED",
+        "timestamp": "2015-10-01 16:46:00"
       },
       "geometry": {
         "type": "Point",
