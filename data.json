@@ -283,6 +283,63 @@
           32.78702197802392
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.94458079338074,
+            32.78856431924499
+          ],
+          [
+            -79.94322896003723,
+            32.789105485264955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9436902999878,
+            32.78889803867981
+          ],
+          [
+            -79.94328260421753,
+            32.78838392983996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94371175765991,
+          32.7888709803939
+        ]
+      }
     }
   ]
 }
