@@ -758,6 +758,23 @@
           32.781447679758344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Ogier St CLOSED",
+        "timestamp": "2015-10-01 16:48:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94379758834839,
+          32.7844964492712
+        ]
+      }
     }
   ]
 }
