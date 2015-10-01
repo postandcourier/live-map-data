@@ -142,6 +142,56 @@
           32.78258421551915
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93677020072937,
+            32.801028341005576
+          ],
+          [
+            -79.93629813194275,
+            32.800694667091385
+          ],
+          [
+            -79.93595480918884,
+            32.80037902845235
+          ],
+          [
+            -79.93559002876282,
+            32.800054370397376
+          ],
+          [
+            -79.93503212928772,
+            32.799612472806416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "E Bay from Jackson to Cooper CLOSED",
+        "timstamp": "2015-10-01 13:27:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93584752082823,
+          32.800288845778226
+        ]
+      }
     }
   ]
 }
