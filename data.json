@@ -81,6 +81,23 @@
           32.80020768129331
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "S Market @ Meeting CLOSED",
+        "timestamp": "2015-10-01 13:20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93150234222412,
+          32.780617819079666
+        ]
+      }
     }
   ]
 }
