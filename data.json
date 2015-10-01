@@ -1220,6 +1220,48 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffdc00",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9403429031372,
+            32.797592341563245
+          ],
+          [
+            -79.93723154067993,
+            32.79880081844797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffdc00",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93840098381042,
+            32.79869259730701
+          ],
+          [
+            -79.93726372718811,
+            32.7966183333141
+          ]
+        ]
+      }
     }
   ]
 }
