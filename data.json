@@ -763,6 +763,23 @@
           32.78996232472926
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Hagood @ Fishburne CLOSED",
+        "timestamp": "2015-10-01 13:55:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95624303817749,
+          32.79161284485258
+        ]
+      }
     }
   ]
 }
