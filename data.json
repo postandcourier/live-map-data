@@ -49,9 +49,9 @@
       "properties": {
         "marker-color": "#ff4136",
         "marker-size": "medium",
-        "marker-symbol": "water",
-        "title": "King @ Huger",
-        "timestamp": "2015-10-01 13:17:00"
+        "marker-symbol": "roadblock",
+        "title": "King @ Huger CLOSED",
+        "timestamp": "2015-10-01 13:25:00"
       },
       "geometry": {
         "type": "Point",
