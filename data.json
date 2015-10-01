@@ -814,6 +814,23 @@
           32.85395840503931
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff851b",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Rutledge @ Fishburne/Crosstown ONE LANE",
+        "timestamp": "2015-10-01 15:35:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94894742965698,
+          32.79376839604629
+        ]
+      }
     }
   ]
 }
