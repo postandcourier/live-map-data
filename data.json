@@ -589,6 +589,64 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.943368434906,
+            32.79484164263797
+          ],
+          [
+            -79.94200587272644,
+            32.79542786429793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.94312167167664,
+            32.79538277046129
+          ],
+          [
+            -79.94251012802124,
+            32.794760473180474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Line and King is pretty much a river. My car was floating. <a href=\"https://twitter.com/hashtag/chsnews?src=hash\">#chsnews</a> <a href=\"https://twitter.com/hashtag/chstrfc?src=hash\">#chstrfc</a> <a href=\"https://twitter.com/hashtag/chswx?src=hash\">#chswx</a> <a href=\"https://t.co/YrNGjoAIiv\">pic.twitter.com/YrNGjoAIiv</a></p>&mdash; Melissa Boughton (@mboughtonPC) <a href=\"https://twitter.com/mboughtonPC/status/649641913402920960\">October 1, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94279980659485,
+          32.79506711296453
+        ]
+      }
     }
   ]
 }
