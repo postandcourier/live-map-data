@@ -777,6 +777,43 @@
           32.78738276199238
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.97690677642822,
+            32.85549057187594
+          ],
+          [
+            -79.9783444404602,
+            32.85249831555003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cosgrove Ave CLOSED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97763633728027,
+          32.85395840503931
+        ]
+      }
     }
   ]
 }
