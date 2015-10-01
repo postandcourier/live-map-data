@@ -131,21 +131,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.94802474975586,
-          32.78258421551915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ff4136",
         "stroke-width": 5,
         "stroke-opacity": 1
@@ -322,21 +307,6 @@
             -79.94328260421753,
             32.78838392983996
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.94371175765991,
-          32.7888709803939
         ]
       }
     },
