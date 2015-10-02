@@ -1309,11 +1309,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Ashley @ Fishburne CLOSED",
-        "timestamp": "2015-10-01 22:42:00"
+        "title": "Ashley @ Fishburne REOPENED",
+        "timestamp": "2015-10-02 1:00:00"
       },
       "geometry": {
         "type": "Point",
