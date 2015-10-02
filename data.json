@@ -1917,11 +1917,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "America @ Lee CLOSED",
-        "timestamp": "2015-10-02 13:28:00",
+        "title": "America @ Lee OPEN",
+        "timestamp": "2015-10-02 15:11:00",
         "description": ""
       },
       "geometry": {
