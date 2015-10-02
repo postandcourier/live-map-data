@@ -679,7 +679,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff4136",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Gadsden @ Bennett CLOSED",
         "timestamp": "2015-10-01 16:37:00"
@@ -687,8 +687,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.944087266922,
-          32.78223243219231
+          -79.94611501693726,
+          32.781411599020224
         ]
       }
     },
@@ -1376,6 +1376,23 @@
         "coordinates": [
           -79.94019269943237,
           32.77361781667843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Ashley @ Bennett CLOSED",
+        "timestamp": "2015-10-02 11:22:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94478464126587,
+          32.781997909201635
         ]
       }
     }
