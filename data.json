@@ -1383,11 +1383,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "small",
         "marker-symbol": "roadblock",
-        "title": "Colonial St CLOSED",
-        "timestamp": "2015-10-02 10:06:00",
+        "title": "Colonial St OPEN",
+        "timestamp": "2015-10-02 15:48:50",
         "description": ""
       },
       "geometry": {
