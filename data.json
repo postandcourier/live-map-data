@@ -1305,6 +1305,23 @@
           32.77542199368081
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Ashley @ Fishburne CLOSED",
+        "timestamp": "2015-10-01 22:42:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95297074317932,
+          32.792857479112904
+        ]
+      }
     }
   ]
 }
