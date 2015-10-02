@@ -167,10 +167,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Morrison @ Stuart-Jackson CLOSED",
+        "title": "Morrison @ Harris-Cooper ONE LANE",
         "timestamp": "2015-10-02 13:10:00",
         "description": ""
       },
