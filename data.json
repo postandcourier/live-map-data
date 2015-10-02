@@ -702,11 +702,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Ogier St CLOSED",
-        "timestamp": "2015-10-01 16:48:00"
+        "timestamp": "2015-10-01 22:39:00"
       },
       "geometry": {
         "type": "Point",
