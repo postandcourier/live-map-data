@@ -651,11 +651,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "President @ Cannon CLOSED",
-        "timestamp": "2015-10-01 14:27:00"
+        "title": "President @ Cannon REOPENED",
+        "timestamp": "2015-10-01 22:31:00"
       },
       "geometry": {
         "type": "Point",
@@ -694,8 +694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.94613647460938,
-          32.781447679758344
+          -79.944087266922,
+          32.78223243219231
         ]
       }
     },
