@@ -1033,7 +1033,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#ff4136",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1614,6 +1614,24 @@
             -79.93982791900635,
             32.77935497276057
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Washington @ Laurens-Hasell CLOSED",
+        "timestamp": "2015-10-2 13:02:45",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92803692817688,
+          32.785569807752324
         ]
       }
     }
