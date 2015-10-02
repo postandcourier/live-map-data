@@ -226,10 +226,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Lockwood @ Broad CLOSED",
+        "title": "Lockwood @ Broad ONE LANE",
         "timestamp": "2015-10-01 12:56:30",
         "description": ""
       },
