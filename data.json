@@ -1812,6 +1812,24 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Hwy 17/61 Split CLOSED",
+        "timestamp": "2015-10-02 13:10:00",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96683239936829,
+          32.781240215314355
+        ]
+      }
     }
   ]
 }
