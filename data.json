@@ -1913,6 +1913,24 @@
           32.845125397961134
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "America @ Lee CLOSED",
+        "timestamp": "2015-10-02 13:28:00",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93804693222046,
+          32.799504252653385
+        ]
+      }
     }
   ]
 }
