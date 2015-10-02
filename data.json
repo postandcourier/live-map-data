@@ -1033,7 +1033,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1620,11 +1620,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Washington @ Laurens-Hasell CLOSED",
-        "timestamp": "2015-10-2 13:02:45",
+        "title": "Washington @ Laurens-Hasell OPEN",
+        "timestamp": "2015-10-2 14:36:00",
         "description": ""
       },
       "geometry": {
