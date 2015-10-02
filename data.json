@@ -1652,6 +1652,57 @@
           32.79341665695015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9568223953247,
+            32.83536300116638
+          ],
+          [
+            -79.95629668235779,
+            32.83519172146444
+          ],
+          [
+            -79.95549201965332,
+            32.83493029391386
+          ],
+          [
+            -79.95480537414551,
+            32.834614776879455
+          ],
+          [
+            -79.95433330535889,
+            32.83420911047341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Meeting Street Rd @ Spruill-Kingsworth CLOSED",
+        "timestamp": "2015-10-02 13:12:00",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95437622070312,
+          32.8342271401308
+        ]
+      }
     }
   ]
 }
