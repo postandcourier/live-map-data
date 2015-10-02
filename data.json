@@ -1361,6 +1361,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "small",
+        "marker-symbol": "roadblock",
+        "title": "Colonial St CLOSED",
+        "timestamp": "2015-10-02 10:06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94019269943237,
+          32.77361781667843
+        ]
+      }
     }
   ]
 }
