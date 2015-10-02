@@ -47,11 +47,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "King @ Huger CLOSED",
-        "timestamp": "2015-10-01 13:25:00"
+        "title": "King @ Huger REOPENED",
+        "timestamp": "2015-10-01 20:05:55"
       },
       "geometry": {
         "type": "Point",
