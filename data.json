@@ -241,7 +241,9 @@
       "properties": {
         "marker-color": "#ff4136",
         "marker-size": "medium",
-        "marker-symbol": "roadblock"
+        "marker-symbol": "roadblock",
+        "title": "Wentworth @ Barre CLOSED",
+        "timestamp": "2015-10-02 10:03:00"
       },
       "geometry": {
         "type": "Point",
