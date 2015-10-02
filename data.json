@@ -1703,6 +1703,61 @@
           32.8342271401308
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.97692823410034,
+            32.85547254653756
+          ],
+          [
+            -79.97967481613159,
+            32.849596091025155
+          ],
+          [
+            -79.97971773147582,
+            32.849037266709026
+          ],
+          [
+            -79.97969627380371,
+            32.84846041211077
+          ],
+          [
+            -79.979567527771,
+            32.847739338589726
+          ],
+          [
+            -79.9794602394104,
+            32.8470002321501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cosgrove @ Rivers-Azalea CLOSED",
+        "timestamp": "2015-10-02 13:14:00",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97877359390259,
+          32.851560961485625
+        ]
+      }
     }
   ]
 }
