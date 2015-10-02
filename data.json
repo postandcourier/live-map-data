@@ -1494,6 +1494,24 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2fcc40",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Kephart St OPEN",
+        "timestamp": "2015-10-02 11:40:20",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96941804885864,
+          32.86098812917233
+        ]
+      }
     }
   ]
 }
