@@ -99,7 +99,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffdc00",
-        "stroke-width": 5,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -599,7 +599,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffdc00",
-        "stroke-width": 5,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -805,7 +805,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffdc00",
-        "stroke-width": 5,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -826,7 +826,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffdc00",
-        "stroke-width": 5,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -922,7 +922,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffdc00",
-        "stroke-width": 5,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -943,7 +943,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffdc00",
-        "stroke-width": 5,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -972,7 +972,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffdc00",
-        "stroke-width": 5,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -1333,6 +1333,31 @@
           [
             -79.94053602218628,
             32.77558436781692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffdc00",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.94169473648071,
+            32.77650448232523
+          ],
+          [
+            -79.94120121002197,
+            32.775476118425765
+          ],
+          [
+            -79.94085788726807,
+            32.77352760686818
           ]
         ]
       }
