@@ -1634,6 +1634,24 @@
           32.785569807752324
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "America @ South-Reid CLOSED",
+        "timestamp": "2015-10-02 13:05:00",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93475317955017,
+          32.79341665695015
+        ]
+      }
     }
   ]
 }
