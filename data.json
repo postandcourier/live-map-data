@@ -1758,6 +1758,27 @@
           32.851560961485625
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.95676875114441,
+            32.836093189873
+          ],
+          [
+            -79.95537400245667,
+            32.836616037356045
+          ]
+        ]
+      }
     }
   ]
 }
