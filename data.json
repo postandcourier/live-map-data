@@ -134,7 +134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#ff4136",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -167,10 +167,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "E Bay OPEN",
+        "title": "Morrison @ Stuart-Jackson CLOSED",
         "timestamp": "2015-10-01 17:10:00",
         "description": ""
       },
