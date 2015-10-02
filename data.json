@@ -1401,11 +1401,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Ashley @ Bennett CLOSED",
-        "timestamp": "2015-10-02 11:22:50",
+        "title": "Ashley @ Bennett OPEN",
+        "timestamp": "2015-10-02 14:37:28",
         "description": ""
       },
       "geometry": {
