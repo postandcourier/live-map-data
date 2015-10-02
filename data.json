@@ -1091,7 +1091,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#ff4136",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1648,8 +1648,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.93475317955017,
-          32.79341665695015
+          -79.93521451950073,
+          32.79441775687635
         ]
       }
     },
@@ -1929,6 +1929,24 @@
         "coordinates": [
           -79.93804693222046,
           32.799504252653385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Drake @ South CLOSED",
+        "timestamp": "2015-10-02 13:29:11",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93347644805908,
+          32.794291492641854
         ]
       }
     }
