@@ -75,19 +75,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.93150234222412,
-          32.780617819079666
+          -79.92950677871704,
+          32.78072606221586
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "N Market @ E Bay OPEN",
-        "timestamp": "2015-10-01 15:08:00",
+        "title": "N Market @ E Bay CLOSED",
+        "timestamp": "2015-10-02 12:59:00",
         "description": ""
       },
       "geometry": {
