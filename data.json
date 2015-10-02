@@ -638,7 +638,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Crosstown OPEN",
         "timestamp": "2015-10-01 16:35:00",
