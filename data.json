@@ -2384,6 +2384,23 @@
           32.78926783442888
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Playground @ Falkirk CLOSED",
+        "timestamp": "2015-10-03 10:49:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00062823295592,
+          32.793606055097875
+        ]
+      }
     }
   ]
 }
