@@ -2004,6 +2004,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Beaufain @ Lockwood-Coming CLOSED",
+        "timestamp": "2015-10-03 5:03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9411153793335,
+          32.77838076478183
+        ]
+      }
     }
   ]
 }
