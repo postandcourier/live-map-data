@@ -990,7 +990,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#fa4a31",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -998,8 +998,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -79.93033289909363,
-            32.788465105117496
+            -79.93175983428955,
+            32.787833739895085
           ],
           [
             -79.92949604988098,
