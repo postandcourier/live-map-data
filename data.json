@@ -47,11 +47,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "REGULAR UPDATES WILL RESUME BY 8AM <br>King @ Huger OPEN",
-        "timestamp": "2015-10-01 20:05:55",
+        "title": "Huger @ Meeting-Senate CLOSED",
+        "timestamp": "2015-10-03 05:03:55",
         "description": ""
       },
       "geometry": {
@@ -2036,6 +2036,27 @@
         "coordinates": [
           -79.9422526359558,
           32.78936704766095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fa4a31",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.95040655136108,
+            32.79914351785867
+          ],
+          [
+            -79.9443769454956,
+            32.802390078319206
+          ]
         ]
       }
     }
