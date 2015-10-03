@@ -1033,7 +1033,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#fa4a31",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1041,8 +1041,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -79.92814421653748,
-            32.786120011700625
+            -79.92864847183228,
+            32.78907842704215
+          ],
+          [
+            -79.92855191230774,
+            32.78817648157189
           ],
           [
             -79.92806911468506,
@@ -1620,11 +1624,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Washington @ Laurens-Hasell OPEN",
-        "timestamp": "2015-10-2 14:36:00",
+        "title": "Washington @ Calhoun-Hasell CLOSED",
+        "timestamp": "2015-10-3 05:03:00",
         "description": ""
       },
       "geometry": {
