@@ -366,18 +366,18 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Coming St OPEN",
-        "timestamp": "2015-10-01 17:08:00",
+        "title": "Coming @ Wentworth CLOSED",
+        "timestamp": "2015-10-03 04:58:00",
         "description": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.94215607643127,
-          32.789321950751
+          -79.93727445602417,
+          32.78099666948016
         ]
       }
     },
