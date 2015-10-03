@@ -1217,7 +1217,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#fa4a31",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1964,6 +1964,23 @@
         "coordinates": [
           -79.9551272392273,
           32.79672655697978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Aiken St CLOSED",
+        "timestamp": "2015-10-03 5:01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93746757507324,
+          32.79694300391599
         ]
       }
     }
