@@ -2868,6 +2868,23 @@
           32.86827862629631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "title": "Red Cross Shelter - United Methodist Church",
+        "timestamp": "2015-10-03 11:30:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98140752315521,
+          32.88101528135541
+        ]
+      }
     }
   ]
 }
