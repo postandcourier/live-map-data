@@ -2331,6 +2331,24 @@
           32.74507087086627
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Southwick Dr CLOSED",
+        "timestamp": "2015-10-03 10:47:00",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06509780883789,
+          32.72947626081224
+        ]
+      }
     }
   ]
 }
