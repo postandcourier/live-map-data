@@ -1323,11 +1323,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Ashley @ Fishburne OPEN",
-        "timestamp": "2015-10-02 1:00:00",
+        "title": "President @ Fishburne CLOSED",
+        "timestamp": "2015-10-03 5:00:00",
         "description": ""
       },
       "geometry": {
