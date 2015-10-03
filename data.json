@@ -167,11 +167,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Morrison @ Harris-Cooper ONE LANE",
-        "timestamp": "2015-10-02 14:35:28",
+        "title": "Morrison @ Harris-Cooper OPEN",
+        "timestamp": "2015-10-02 22:35:28",
         "description": ""
       },
       "geometry": {
