@@ -2096,6 +2096,23 @@
           32.78874470828415
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cannon @ President CLOSED",
+        "timestamp": "2015-10-3 05:51:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95044946670531,
+          32.78734668366138
+        ]
+      }
     }
   ]
 }
