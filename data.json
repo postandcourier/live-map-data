@@ -1638,11 +1638,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "America @ South-Reid OPEN",
-        "timestamp": "2015-10-02 15:11:00",
+        "title": "America @ South-Reid CLOSED",
+        "timestamp": "2015-10-03 00:36:00",
         "description": ""
       },
       "geometry": {
