@@ -637,11 +637,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa8800",
+        "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Crosstown ONE LANE",
-        "timestamp": "2015-10-03 5:15:00",
+        "title": "Crosstown CLOSED",
+        "timestamp": "2015-10-03 5:30:00",
         "description": ""
       },
       "geometry": {
