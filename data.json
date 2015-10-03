@@ -2212,6 +2212,23 @@
           32.789312931366254
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Brownswood @ Summertree CLOSED",
+        "timestamp": "2015-10-03 09:16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06848812103271,
+          32.74404214386418
+        ]
+      }
     }
   ]
 }
