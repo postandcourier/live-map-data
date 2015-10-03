@@ -2388,11 +2388,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Playground @ Falkirk CLOSED",
-        "timestamp": "2015-10-03 10:49:00"
+        "title": "Playground @ Falkirk OPEN",
+        "timestamp": "2015-10-03 18:51:00"
       },
       "geometry": {
         "type": "Point",
