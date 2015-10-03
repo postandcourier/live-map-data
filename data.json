@@ -2401,6 +2401,23 @@
           32.793606055097875
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Wappoo @ Grech CLOSED",
+        "timestamp": "2015-10-03 10:51:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01799821853638,
+          32.79333548619193
+        ]
+      }
     }
   ]
 }
