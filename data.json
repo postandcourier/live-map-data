@@ -2967,6 +2967,23 @@
           32.85741926192103
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Rivers @ Reynolds CLOSED",
+        "timestamp": "2015-10-03 12:30:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9735164642334,
+          32.854066558860445
+        ]
+      }
     }
   ]
 }
