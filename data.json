@@ -2984,6 +2984,23 @@
           32.854066558860445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Dorchester @ Transfer CLOSED",
+        "timestamp": "2015-10-03 12:30:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00738739967346,
+          32.85401248196637
+        ]
+      }
     }
   ]
 }
