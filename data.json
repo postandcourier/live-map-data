@@ -1935,11 +1935,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Drake @ South CLOSED",
-        "timestamp": "2015-10-02 13:29:11",
+        "title": "Drake @ South OPEN",
+        "timestamp": "2015-10-02 22:37:11",
         "description": ""
       },
       "geometry": {
