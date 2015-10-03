@@ -3072,6 +3072,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Seacroft Rd CLOSED",
+        "timestamp": "2015-10-03 12:41:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95901107788085,
+          32.71452886584827
+        ]
+      }
     }
   ]
 }
