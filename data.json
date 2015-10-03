@@ -572,10 +572,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ffdc00",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Hagood @ Fishburne OPEN",
+        "title": "Hagood @ Fishburne ???",
         "timestamp": "2015-10-02 15:24:52",
         "description": ""
       },
