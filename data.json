@@ -2851,6 +2851,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "Meeting St Rd @ Macon REPORT: SINKHOLE",
+        "timestamp": "2015-10-03 11:15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99456644058228,
+          32.86827862629631
+        ]
+      }
     }
   ]
 }
