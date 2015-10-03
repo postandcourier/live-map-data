@@ -2314,6 +2314,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Harbor View Rd @ Lawton Place CLOSED",
+        "timestamp": "2015-10-03 10:43:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9403429031372,
+          32.74507087086627
+        ]
+      }
     }
   ]
 }
