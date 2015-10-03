@@ -2229,6 +2229,24 @@
           32.74404214386418
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Dunes West @ Kings Point CLOSED",
+        "timestamp": "2015-10-03 09:51:00",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81553435325623,
+          32.89783999782842
+        ]
+      }
     }
   ]
 }
