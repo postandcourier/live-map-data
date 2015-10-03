@@ -2140,6 +2140,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Oak Forest @ Keats CLOSED",
+        "timestamp": "2015-10-03 07:45:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99767780303955,
+          32.78720237019107
+        ]
+      }
     }
   ]
 }
