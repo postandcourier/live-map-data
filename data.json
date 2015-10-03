@@ -1949,6 +1949,23 @@
           32.794291492641854
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Huger @ President CLOSED",
+        "timestamp": "2015-10-03 5:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9551272392273,
+          32.79672655697978
+        ]
+      }
     }
   ]
 }
