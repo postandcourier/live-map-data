@@ -2469,6 +2469,23 @@
           32.73911491828265
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Woodview @ Secessionville CLOSED",
+        "timestamp": "2015-10-03 10:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95841026306152,
+          32.711856845323716
+        ]
+      }
     }
   ]
 }
