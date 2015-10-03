@@ -3001,6 +3001,23 @@
           32.85401248196637
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Rivers @ Eagle CLOSED",
+        "timestamp": "2015-10-03 12:30:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0277829170227,
+          32.916872624537774
+        ]
+      }
     }
   ]
 }
