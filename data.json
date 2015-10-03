@@ -673,11 +673,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
+        "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Rutledge @ Fishburne/Crosstown ONE LANE",
-        "timestamp": "2015-10-01 15:35:00",
+        "title": "Rutledge @ Fishburne/Crosstown CLOSED",
+        "timestamp": "2015-10-03 5:15:00",
         "description": ""
       },
       "geometry": {
