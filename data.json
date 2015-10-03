@@ -2435,6 +2435,23 @@
           32.78321561800146
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "St Teresa @ Moore CLOSED",
+        "timestamp": "2015-10-03 10:53:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98291492462158,
+          32.78242185415651
+        ]
+      }
     }
   ]
 }
