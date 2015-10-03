@@ -2405,11 +2405,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#fa8800",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Wappoo @ Grech CLOSED",
-        "timestamp": "2015-10-03 10:51:00"
+        "title": "Wappoo @ Grech LIMITED",
+        "timestamp": "2015-10-03 18:51:00"
       },
       "geometry": {
         "type": "Point",
