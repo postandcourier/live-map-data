@@ -2418,6 +2418,23 @@
           32.79333548619193
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Lindendale @ Riverdale CLOSED",
+        "timestamp": "2015-10-03 10:52:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98351573944092,
+          32.78321561800146
+        ]
+      }
     }
   ]
 }
