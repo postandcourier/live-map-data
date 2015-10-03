@@ -2367,6 +2367,23 @@
           32.73476501653406
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa8800",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Orleans @ Savannah Hwy RESTRICTED",
+        "timestamp": "2015-10-03 10:49:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02736449241638,
+          32.78926783442888
+        ]
+      }
     }
   ]
 }
