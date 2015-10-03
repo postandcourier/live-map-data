@@ -2272,6 +2272,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "National Drive CLOSED",
+        "timestamp": "2015-10-03 10:02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.77069854736328,
+          32.87506392745871
+        ]
+      }
     }
   ]
 }
