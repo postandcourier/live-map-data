@@ -101,7 +101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#fa4a31",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -2061,6 +2061,23 @@
             -79.9443769454956,
             32.802390078319206
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Rutledge @ Calhoun-Bennett CLOSED",
+        "timestamp": "2015-10-03 05:03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94418382644653,
+          32.78359445733983
         ]
       }
     }
