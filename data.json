@@ -916,7 +916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#fa4a31",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -928,8 +928,8 @@
             32.78529019460557
           ],
           [
-            -79.94269251823425,
-            32.785876479225266
+            -79.94034826755524,
+            32.78646726981785
           ]
         ]
       }
@@ -1408,15 +1408,15 @@
         "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Ashley @ Bennett CLOSED",
+        "title": "Ashley @ Calhoun-Bennett CLOSED",
         "timestamp": "2015-10-03 00:16:28",
         "description": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.94478464126587,
-          32.781997909201635
+          -79.94550347328186,
+          32.783206597997534
         ]
       }
     },
@@ -2078,6 +2078,23 @@
         "coordinates": [
           -79.94418382644653,
           32.78359445733983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Vanderhorst @ Rutledge-Coming CLOSED",
+        "timestamp": "2015-10-03 05:03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94275689125061,
+          32.785849420020206
         ]
       }
     }
