@@ -2065,11 +2065,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Calhoun @ E Bay-Elizabeth CLOSED",
-        "timestamp": "2015-10-03 05:50:00"
+        "title": "Calhoun @ E Bay-Elizabeth OPEN",
+        "timestamp": "2015-10-03 07:42:00"
       },
       "geometry": {
         "type": "Point",
