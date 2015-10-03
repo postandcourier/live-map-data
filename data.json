@@ -1595,7 +1595,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#fa4a31",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
