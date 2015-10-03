@@ -760,11 +760,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ffdc00",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Lockwood S OPEN",
-        "timestamp": "2015-10-01 15:00:00",
+        "title": "Lockwood S ???",
+        "timestamp": "2015-10-03 5:23:00",
         "description": ""
       },
       "geometry": {
