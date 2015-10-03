@@ -709,24 +709,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "Ogier St OPEN",
-        "timestamp": "2015-10-01 22:39:00",
-        "description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.94379758834839,
-          32.7844964492712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
@@ -1423,7 +1405,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#fa4a31",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
