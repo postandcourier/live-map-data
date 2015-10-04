@@ -3245,6 +3245,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Prochers Bluff @ 17 CLOSED",
+        "timestamp": "2015-10-04 11:31:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7911262512207,
+          32.86149280588196
+        ]
+      }
     }
   ]
 }
