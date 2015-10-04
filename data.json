@@ -1715,15 +1715,15 @@
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Cosgrove @ Rivers-Azalea CLOSED",
-        "timestamp": "2015-10-02 13:14:00",
+        "title": "Cosgrove @ Azalea NOT PASSABLE",
+        "timestamp": "2015-10-04 14:18:00",
         "description": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.97877359390259,
-          32.851560961485625
+          -79.97942805290222,
+          32.84693713741275
         ]
       }
     },
