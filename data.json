@@ -3383,6 +3383,23 @@
           32.83615629231881
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cheswick Lane CLOSED",
+        "timestamp": "2015-10-04 11:40:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.83197629451752,
+          32.90158289380346
+        ]
+      }
     }
   ]
 }
