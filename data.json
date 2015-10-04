@@ -3722,6 +3722,23 @@
           32.865854534923784
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Rivers @ Tipson NOT PASSABLE",
+        "timestamp": "2015-10-04 14:18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02925276756287,
+          32.919484449931474
+        ]
+      }
     }
   ]
 }
