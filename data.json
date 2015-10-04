@@ -3262,6 +3262,23 @@
           32.86149280588196
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Appling Dr NOT PASSABLE",
+        "timestamp": "2015-10-04 09:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.83756601810455,
+          32.808481568339744
+        ]
+      }
     }
   ]
 }
