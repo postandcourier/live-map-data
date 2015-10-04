@@ -3586,6 +3586,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Spruill @ Hugo FLOODED",
+        "timestamp": "2015-10-04 14:06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95564758777617,
+          32.83781947632798
+        ]
+      }
     }
   ]
 }
