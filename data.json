@@ -3908,6 +3908,27 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fa4a31",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.05235195159912,
+            32.923023800649716
+          ],
+          [
+            -80.04816770553589,
+            32.917440027642165
+          ]
+        ]
+      }
     }
   ]
 }
