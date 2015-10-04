@@ -3688,6 +3688,23 @@
           32.90410959695455
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Peppercorn Ln NOT PASSABLE",
+        "timestamp": "2015-10-04 14:18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07477521896361,
+          32.92867926316656
+        ]
+      }
     }
   ]
 }
