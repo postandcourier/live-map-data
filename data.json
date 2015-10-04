@@ -3140,6 +3140,23 @@
           32.7970512271865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Hwy 78 @ Ingleside Dr CLOSED",
+        "timestamp": "2015-10-04 10:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08687734603882,
+          32.98132614485433
+        ]
+      }
     }
   ]
 }
