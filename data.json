@@ -2335,11 +2335,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#fa8800",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Southwick Dr CLOSED",
-        "timestamp": "2015-10-03 10:47:00",
+        "title": "Southwick Dr PASSABLE",
+        "timestamp": "2015-10-04 10:47:00",
         "description": ""
       },
       "geometry": {
@@ -2353,11 +2353,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#fa8800",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Dunwick Dr CLOSED",
-        "timestamp": "2015-10-03 10:47:00",
+        "title": "Dunwick Dr PASSABLE",
+        "timestamp": "2015-10-04 10:47:00",
         "description": ""
       },
       "geometry": {
