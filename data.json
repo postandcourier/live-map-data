@@ -1867,11 +1867,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Longpoint @ Needlerush-Boone Hall CLOSED",
-        "timestamp": "2015-10-3 09:49:00",
+        "title": "Longpoint @ Needlerush-Boone Hall OPEN",
+        "timestamp": "2015-10-04 11:40:00",
         "description": "-Mount Pleasant PD"
       },
       "geometry": {
