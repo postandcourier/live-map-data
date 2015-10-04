@@ -3603,6 +3603,23 @@
           32.83781947632798
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Meeting St Rd @ Delaware FLOODED",
+        "timestamp": "2015-10-04 14:06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9613070487976,
+          32.838423443296946
+        ]
+      }
     }
   ]
 }
