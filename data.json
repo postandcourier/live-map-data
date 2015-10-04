@@ -3417,6 +3417,23 @@
           32.900155117008325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Farm Quarter @ Ventura Villas",
+        "timestamp": "2015-10-04 11:40:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.82872009277344,
+          32.83663406652465
+        ]
+      }
     }
   ]
 }
