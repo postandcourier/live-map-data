@@ -3459,6 +3459,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Northwoods @ Mall NOT PASSABLE",
+        "timestamp": "2015-10-04 14:06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04648864269257,
+          32.940241217363585
+        ]
+      }
     }
   ]
 }
