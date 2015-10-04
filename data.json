@@ -3739,6 +3739,23 @@
           32.919484449931474
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "526 @ N Rhett BLOCKED",
+        "timestamp": "2015-10-04 14:18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98555421829224,
+          32.89416450923654
+        ]
+      }
     }
   ]
 }
