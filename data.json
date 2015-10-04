@@ -50,8 +50,8 @@
         "marker-color": "#fa4a31",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "TRAFFIC ON TO THE PENINSULA LIMITED TO ESSENTIAL PERSONNEL<BR><BR>Huger @ Meeting-Senate CLOSED",
-        "timestamp": "2015-10-03 19:15:55",
+        "title": "TRAFFIC ON TO THE PENINSULA LIMITED TO ESSENTIAL PERSONNEL AND RESIDENTS<BR><BR>Huger @ Meeting-Senate CLOSED",
+        "timestamp": "2015-10-04 09:15:00",
         "description": ""
       },
       "geometry": {
@@ -3104,6 +3104,23 @@
         "coordinates": [
           -79.95426893234253,
           32.81491527949207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2fcc40",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "I26 to Rutledge OPEN",
+        "timestamp": "2015-10-04 09:20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95514869689941,
+          32.81884651209896
         ]
       }
     }
