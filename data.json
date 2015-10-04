@@ -3958,40 +3958,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#fa4a31",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "California Ave CLOSED",
-        "timestamp": "2015-10-04 14:18:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.01369595527649,
-          33.19952721524025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#fa4a31",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "French Quarter Creek Rd CLOSED",
-        "timestamp": "2015-10-04 14:18:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.85985517501831,
-          33.03374377331645
-        ]
-      }
     }
   ]
 }
