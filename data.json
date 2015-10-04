@@ -3637,6 +3637,23 @@
           32.870220555034216
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Noisette @ 2nd NOT PASSABLE",
+        "timestamp": "2015-10-04 14:18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97296392917633,
+          32.873306827581054
+        ]
+      }
     }
   ]
 }
