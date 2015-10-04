@@ -3366,6 +3366,23 @@
           32.84711740797185
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Farm Quarter Rd 900 Block CLOSED",
+        "timestamp": "2015-10-04 11:40:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.83318328857422,
+          32.83615629231881
+        ]
+      }
     }
   ]
 }
