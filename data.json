@@ -3756,6 +3756,23 @@
           32.89416450923654
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Palmetto Commerce @ Avert Trucking NOT PASSABLE",
+        "timstamp": "2015-10-04 14:18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07196426391602,
+          32.9409435303709
+        ]
+      }
     }
   ]
 }
