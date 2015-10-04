@@ -3476,6 +3476,23 @@
           32.940241217363585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Rivers @ Midland Park NOT PASSABLE",
+        "timestamp": "2015-10-04 14:06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03005743026732,
+          32.92071828546537
+        ]
+      }
     }
   ]
 }
