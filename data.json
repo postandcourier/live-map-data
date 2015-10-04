@@ -366,11 +366,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Coming @ Wentworth CLOSED",
-        "timestamp": "2015-10-03 04:58:00",
+        "title": "Coming @ Wentworth OPEN",
+        "timestamp": "2015-10-04 09:58:00",
         "description": ""
       },
       "geometry": {
