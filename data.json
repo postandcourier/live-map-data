@@ -3527,6 +3527,23 @@
           32.93226327041173
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Carner @ Jacksonville FLOODED",
+        "timestamp": "2015-10-04 14:06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96514797210693,
+          32.8451884939865
+        ]
+      }
     }
   ]
 }
