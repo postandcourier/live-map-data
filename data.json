@@ -3858,6 +3858,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa8800",
+        "marker-size": "medium",
+        "marker-symbol": "danger",
+        "title": "41st @ Waterway POSSIBLE SEWAGE CONTAMINATION",
+        "timestamp": "2015-10-04 14:38:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76050615310669,
+          32.80358045411563
+        ]
+      }
     }
   ]
 }
