@@ -3123,6 +3123,23 @@
           32.81884651209896
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2fcc40",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "I26 to Meeting St OPEN",
+        "timestamp": "2015-10-04 9:22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94129776954651,
+          32.7970512271865
+        ]
+      }
     }
   ]
 }
