@@ -3089,6 +3089,23 @@
           32.71452886584827
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2fcc40",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "I26 to Mt Pleasant/E Bay OPEN",
+        "timestamp": "2015-10-04 09:17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95426893234253,
+          32.81491527949207
+        ]
+      }
     }
   ]
 }
