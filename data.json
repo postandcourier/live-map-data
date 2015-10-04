@@ -3349,6 +3349,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Wando Park Blvd 400 Block CLOSED",
+        "timestamp": "2015-10-04 11:40:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88036870956421,
+          32.84711740797185
+        ]
+      }
     }
   ]
 }
