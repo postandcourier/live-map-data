@@ -3157,6 +3157,23 @@
           32.98132614485433
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2fcc40",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "James Island Connector OPEN",
+        "timestamp": "2015-10-04 09:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95789527893066,
+          32.77782149241921
+        ]
+      }
     }
   ]
 }
