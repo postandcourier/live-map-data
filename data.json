@@ -4163,6 +4163,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff851b",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Bohicket @ Maybank turning lane CLOSED",
+        "timestamp": "2015-10-05 09:11:28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08200645446776,
+          32.720360092135756
+        ]
+      }
     }
   ]
 }
