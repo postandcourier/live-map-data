@@ -4740,23 +4740,6 @@
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "45 @ Colonel Maham CLOSED",
-        "timestamp": "2015-10-05 11:26:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.02085208892821,
-          33.43201437071109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
         "title": "17A @ Bethera-E Church CLOSED",
         "timestamp": "2015-10-05 11:26:00"
       },
@@ -4782,23 +4765,6 @@
         "coordinates": [
           -79.96646225452423,
           33.21419531219655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "45 @ Judgetown Closed",
-        "timestamp": "2015-10-05 11:50:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.01410901546478,
-          33.430881727298946
         ]
       }
     },
