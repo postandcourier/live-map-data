@@ -4954,6 +4954,23 @@
           33.01125461422127
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Pimlico Blvd CLOSED",
+        "timestamp": "2015-10-05 11:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97454643249512,
+          33.085141424248235
+        ]
+      }
     }
   ]
 }
