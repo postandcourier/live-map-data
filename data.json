@@ -5201,6 +5201,24 @@
           33.105922150909976
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "17 @ Bonanza-Bees Ferry CLOSES",
+        "timestamp": "2015-10-05 17:33:00",
+        "description": "Report"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09222030639648,
+          32.799287811952205
+        ]
+      }
     }
   ]
 }
