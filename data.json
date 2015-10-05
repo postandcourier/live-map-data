@@ -4450,6 +4450,23 @@
           33.00251827803136
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "French Quarter Creek Rd CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85925436019897,
+          33.03255648919337
+        ]
+      }
     }
   ]
 }
