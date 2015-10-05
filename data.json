@@ -4310,6 +4310,23 @@
           33.025162587173966
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Hwy 41 @ United Rd CLOSED",
+        "timestamp": "2015-10-05 11:15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80586767196655,
+          33.08064667644031
+        ]
+      }
     }
   ]
 }
