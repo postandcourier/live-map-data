@@ -2144,11 +2144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Oak Forest @ Keats CLOSED",
-        "timestamp": "2015-10-03 07:45:00"
+        "title": "Oak Forest @ Keats OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
@@ -2371,11 +2371,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa8800",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Orleans @ Savannah Hwy RESTRICTED",
-        "timestamp": "2015-10-03 10:49:00"
+        "title": "Orleans @ Savannah Hwy OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
@@ -2405,11 +2405,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa8800",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Wappoo @ Grech LIMITED",
-        "timestamp": "2015-10-03 18:51:00"
+        "title": "Wappoo @ Grech OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
@@ -2439,11 +2439,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "St Teresa @ Moore CLOSED",
-        "timestamp": "2015-10-03 10:53:00"
+        "title": "St Teresa @ Moore OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
