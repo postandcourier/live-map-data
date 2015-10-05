@@ -4242,6 +4242,23 @@
           32.81212003123974
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Alligator Rd @ Dogear-Leatherwood CLOSED",
+        "timestamp": "2015-10-05 11:15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8581063747406,
+          33.1454297232594
+        ]
+      }
     }
   ]
 }
