@@ -5150,6 +5150,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Marson St CLOSED",
+        "timestamp": "2015-10-05 13:43:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00758051872253,
+          32.88958795244439
+        ]
+      }
     }
   ]
 }
