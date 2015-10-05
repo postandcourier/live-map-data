@@ -4920,6 +4920,23 @@
           33.18174087157112
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Otto @ DR Evand CLOSED",
+        "timestamp": "2015-10-05 11:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95267033576965,
+          33.19005538182906
+        ]
+      }
     }
   ]
 }
