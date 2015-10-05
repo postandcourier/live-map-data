@@ -4835,6 +4835,23 @@
           33.16450774929617
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "6 @ Country Corner CLOSED",
+        "timestamp": "2015-10-05 11:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03119468688965,
+          33.201780552703646
+        ]
+      }
     }
   ]
 }
