@@ -3370,7 +3370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Farm Quarter Rd 900 Block CAUTION",
@@ -3421,7 +3421,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Farm Quarter @ Ventura Villas CAUTION",
