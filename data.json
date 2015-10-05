@@ -2857,9 +2857,9 @@
       "properties": {
         "marker-color": "#fa4a31",
         "marker-size": "medium",
-        "marker-symbol": "star",
+        "marker-symbol": "roadblock",
         "title": "Meeting St Rd @ Macon REPORT: SINKHOLE",
-        "timestamp": "2015-10-03 11:15:00"
+        "timestamp": "2015-10-04 13:43:00"
       },
       "geometry": {
         "type": "Point",
