@@ -3387,11 +3387,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Cheswick Lane CLOSED",
-        "timestamp": "2015-10-04 11:40:00"
+        "title": "Cheswick Lane OPEN",
+        "timestamp": "2015-10-05 17:00:00"
       },
       "geometry": {
         "type": "Point",
@@ -3404,11 +3404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Wando Plantation @ Harpers Ferry",
-        "timestamp": "2015-10-04 11:40:00"
+        "timestamp": "2015-10-05 17:00:00"
       },
       "geometry": {
         "type": "Point",
@@ -4941,11 +4941,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Pimlico Blvd CLOSED",
-        "timestamp": "2015-10-05 11:57:00"
+        "title": "OPEN",
+        "timestamp": "2015-10-05 17:00:00"
       },
       "geometry": {
         "type": "Point",
