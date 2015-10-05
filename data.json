@@ -65,11 +65,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "S Market @  Church CLOSED",
-        "timestamp": "2015-10-03 00:17:00",
+        "title": "S Market @  Church OPEN",
+        "timestamp": "2015-10-05 07:14:00",
         "description": ""
       },
       "geometry": {
@@ -83,11 +83,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "N Market @ E Bay CLOSED",
-        "timestamp": "2015-10-03 00:17:44",
+        "title": "N Market @ E Bay OPEN",
+        "timestamp": "2015-10-05 07:14:00",
         "description": ""
       },
       "geometry": {
@@ -1588,11 +1588,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Washington @ Calhoun-Hasell CLOSED",
-        "timestamp": "2015-10-3 05:03:00",
+        "title": "Washington @ Calhoun-Hasell OPEN",
+        "timestamp": "2015-10-05 07:14:00",
         "description": ""
       },
       "geometry": {
@@ -1885,11 +1885,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "America @ Lee CLOSED",
-        "timestamp": "2015-10-03 00:14:00",
+        "title": "America @ Lee OPEN",
+        "timestamp": "2015-10-05 07:14:00",
         "description": ""
       },
       "geometry": {
@@ -1938,10 +1938,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Aiken St CLOSED",
+        "title": "Aiken St OPEN",
         "timestamp": "2015-10-03 5:01:00"
       },
       "geometry": {
@@ -2182,11 +2182,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Rutledge @ Simmons CLOSED",
-        "timestamp": "2015-10-3 07:58:00"
+        "title": "Rutledge @ Simmons OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
