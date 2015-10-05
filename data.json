@@ -4733,6 +4733,23 @@
           33.213414392242626
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "41 @ Clements Ferry CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8208236694336,
+          32.928156958531574
+        ]
+      }
     }
   ]
 }
