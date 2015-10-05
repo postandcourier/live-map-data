@@ -4818,6 +4818,23 @@
           33.430881727298946
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "52 @ Moss Grove CLOSED",
+        "timestamp": "2015-10-05 11:50:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02961754798889,
+          33.16450774929617
+        ]
+      }
     }
   ]
 }
