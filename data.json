@@ -4784,6 +4784,23 @@
           33.26868988934309
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "402 @ Carswell CLOSED",
+        "timestamp": "2015-10-05 11:50:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96646225452423,
+          33.21419531219655
+        ]
+      }
     }
   ]
 }
