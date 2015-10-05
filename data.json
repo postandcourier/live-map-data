@@ -5184,6 +5184,23 @@
           32.88880414833793
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cammanche @ Commander CLOSED",
+        "timestamp": "2015-10-05 14:36:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97966408729553,
+          32.853106689090616
+        ]
+      }
     }
   ]
 }
