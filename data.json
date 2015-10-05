@@ -3022,11 +3022,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Rivers @ Otranto",
-        "timestamp": "2015-10-03 12:30:00"
+        "title": "Rivers @ Otranto PASSABLE",
+        "timestamp": "2015-10-04 13:43:00"
       },
       "geometry": {
         "type": "Point",
@@ -3148,7 +3148,7 @@
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Hwy 78 @ Ingleside Dr CLOSED",
-        "timestamp": "2015-10-04 10:00:00"
+        "timestamp": "2015-10-04 13:43:00"
       },
       "geometry": {
         "type": "Point",
@@ -3463,11 +3463,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Northwoods @ Mall NOT PASSABLE",
-        "timestamp": "2015-10-04 14:06:00"
+        "title": "Northwoods @ Mall PASSABLE",
+        "timestamp": "2015-10-04 13:43:00"
       },
       "geometry": {
         "type": "Point",
