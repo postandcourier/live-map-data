@@ -4501,6 +4501,23 @@
           33.10336976576128
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Harristown Rd CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88897323608397,
+          33.32550820819785
+        ]
+      }
     }
   ]
 }
