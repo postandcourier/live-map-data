@@ -4518,6 +4518,23 @@
           33.32550820819785
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "402 @ Copperhead CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8130989074707,
+          33.13575439297845
+        ]
+      }
     }
   ]
 }
