@@ -2048,11 +2048,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Vanderhorst @ Rutledge-Coming CLOSED",
-        "timestamp": "2015-10-03 05:03:00"
+        "title": "Vanderhorst @ Rutledge-Coming OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
