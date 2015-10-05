@@ -4225,6 +4225,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Meriners Ferry @ Arrow Wind Terrace",
+        "timestamp": "2015-10-05 09:46:28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05215883255005,
+          32.81212003123974
+        ]
+      }
     }
   ]
 }
