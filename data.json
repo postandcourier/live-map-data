@@ -4988,6 +4988,23 @@
           33.30162319673575
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "17A @ Harisstown CLOSED",
+        "timestamp": "2015-10-05 11:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89588260650633,
+          33.27231387905445
+        ]
+      }
     }
   ]
 }
