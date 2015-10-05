@@ -4852,6 +4852,23 @@
           33.201780552703646
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Jedburg @ Sandy Run CLOSED",
+        "timestamp": "2015-10-05 11:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1771068572998,
+          33.122061573818584
+        ]
+      }
     }
   ]
 }
