@@ -4433,6 +4433,23 @@
           33.198979582635154
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "College Park Rd @ Gleason Dr CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08902311325073,
+          33.00251827803136
+        ]
+      }
     }
   ]
 }
