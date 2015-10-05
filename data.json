@@ -4484,6 +4484,23 @@
           33.193341460941255
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Gross Ave CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09644746780396,
+          33.10336976576128
+        ]
+      }
     }
   ]
 }
