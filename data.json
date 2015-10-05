@@ -4886,6 +4886,23 @@
           33.32739075740286
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Mitchum Town @ Bethera CLOSED",
+        "timestamp": "2015-10-05 11:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.797842502594,
+          33.209159602498914
+        ]
+      }
     }
   ]
 }
