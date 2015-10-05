@@ -2318,11 +2318,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Harbor View Rd @ Lawton Place CLOSED",
-        "timestamp": "2015-10-03 10:43:00"
+        "title": "Harbor View Rd @ Lawton Place OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
@@ -2456,11 +2456,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Winborn @ Dills Bluff CLOSED",
-        "timestamp": "2015-10-03 10:55:00"
+        "title": "Winborn @ Dills Bluff OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
