@@ -4750,6 +4750,23 @@
           32.928156958531574
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "45 @ Colonel Maham CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02085208892821,
+          33.43201437071109
+        ]
+      }
     }
   ]
 }
