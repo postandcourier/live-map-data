@@ -3743,11 +3743,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "526 @ N Rhett BLOCKED",
-        "timestamp": "2015-10-04 14:18:00"
+        "title": "526 @ N Rhett OPEN",
+        "timestamp": "2015-10-05 13:43:00"
       },
       "geometry": {
         "type": "Point",
