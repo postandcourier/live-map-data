@@ -4767,6 +4767,23 @@
           33.43201437071109
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "17A @ Bethera-E Church CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90382194519043,
+          33.26868988934309
+        ]
+      }
     }
   ]
 }
