@@ -4467,6 +4467,23 @@
           33.03255648919337
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "French Santee Rd @ Chicken Creek CLOSED",
+        "timestamp": "2015-10-05 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6054744720459,
+          33.193341460941255
+        ]
+      }
     }
   ]
 }
