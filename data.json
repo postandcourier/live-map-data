@@ -2276,11 +2276,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "National Drive CLOSED",
-        "timestamp": "2015-10-03 10:02:00"
+        "title": "National Drive OPEN",
+        "timestamp": "2015-10-05 17:12:00"
       },
       "geometry": {
         "type": "Point",
@@ -3249,11 +3249,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Prochers Bluff @ 17 CLOSED",
-        "timestamp": "2015-10-04 11:31:00"
+        "title": "Prochers Bluff @ 17 OPEN",
+        "timestamp": "2015-10-05 17:00:00"
       },
       "geometry": {
         "type": "Point",
@@ -3370,10 +3370,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#ffdc00",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Farm Quarter Rd 900 Block CLOSED",
+        "title": "Farm Quarter Rd 900 Block CAUTION",
         "timestamp": "2015-10-04 11:40:00"
       },
       "geometry": {
@@ -3421,10 +3421,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#ffdc00",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Farm Quarter @ Ventura Villas",
+        "title": "Farm Quarter @ Ventura Villas CAUTION",
         "timestamp": "2015-10-04 11:40:00"
       },
       "geometry": {
