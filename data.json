@@ -4805,11 +4805,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "52 @ Moss Grove CLOSED",
-        "timestamp": "2015-10-05 11:50:00"
+        "title": "52 @ Moss Grove OPEN",
+        "timestamp": "2015-10-05 17:00:00"
       },
       "geometry": {
         "type": "Point",
