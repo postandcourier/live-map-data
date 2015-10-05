@@ -3353,11 +3353,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Wando Park Blvd 400 Block CLOSED",
-        "timestamp": "2015-10-04 11:40:00"
+        "title": "Wando Park Blvd 400 Block OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
