@@ -2954,11 +2954,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Spruill @ Reynolds-Pittsburgh CLOSED",
-        "timestamp": "2015-10-03 12:30:00"
+        "title": "Spruill @ Reynolds-Pittsburgh OPEN",
+        "timestamp": "2015-10-05 13:43:00"
       },
       "geometry": {
         "type": "Point",
@@ -3624,11 +3624,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Noisette @ Twiggs NOT PASSABLE",
-        "timestamp": "2015-10-04 14:06:00"
+        "title": "Noisette @ Twiggs PASSABLE",
+        "timestamp": "2015-10-05 13:43:00"
       },
       "geometry": {
         "type": "Point",
@@ -3641,11 +3641,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Noisette @ 2nd NOT PASSABLE",
-        "timestamp": "2015-10-04 14:18:00"
+        "title": "Noisette @ 2nd PASSABLE",
+        "timestamp": "2015-10-05 13:43:00"
       },
       "geometry": {
         "type": "Point",
@@ -5119,6 +5119,35 @@
         "coordinates": [
           -80.2417802810669,
           33.02237397156142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff4136",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.98098373413086,
+            32.85305711806933
+          ],
+          [
+            -79.979567527771,
+            32.85511203900091
+          ],
+          [
+            -79.97918128967285,
+            32.85572490094158
+          ],
+          [
+            -79.97913837432861,
+            32.856698261204336
+          ]
         ]
       }
     }
