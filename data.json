@@ -1921,11 +1921,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Huger @ President CLOSED",
-        "timestamp": "2015-10-03 5:00:00"
+        "title": "Huger @ President OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
