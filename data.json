@@ -637,11 +637,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "President @ Crosstown CLOSED",
-        "timestamp": "2015-10-03 05:05:00",
+        "title": "President @ Crosstown OPEN",
+        "timestamp": "2015-10-05 07:14:00",
         "description": ""
       },
       "geometry": {
@@ -2082,11 +2082,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "President @ Cannon-Bee CLOSED",
-        "timestamp": "2015-10-3 05:51:00"
+        "title": "President @ Cannon-Bee OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
@@ -2199,11 +2199,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Spring @ Kracke CLOSED",
-        "timestamp": "2015-10-03 09:13:00"
+        "title": "Spring @ Kracke OPEN",
+        "timestamp": "2015-10-05 07:14:00"
       },
       "geometry": {
         "type": "Point",
