@@ -4259,6 +4259,23 @@
           33.1454297232594
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Betsy Hole Rd @ Gravel Hill Rd CLOSED",
+        "timestamp": "2015-10-05 11:15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9061393737793,
+          33.32597436702771
+        ]
+      }
     }
   ]
 }
