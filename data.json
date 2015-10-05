@@ -4937,6 +4937,23 @@
           33.19005538182906
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Oxford @ College Park CLOSED",
+        "timestamp": "2015-10-05 11:57:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0893235206604,
+          33.01125461422127
+        ]
+      }
     }
   ]
 }
