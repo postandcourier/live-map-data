@@ -4280,11 +4280,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Cainhoy Rd @ Redhill-Hwy 41 CLOSED",
-        "timestamp": "2015-10-05 11:15:00"
+        "title": "Cainhoy Rd @ Redhill-Hwy 41 OPEN",
+        "timestamp": "2015-10-05 17:00:00"
       },
       "geometry": {
         "type": "Point",
@@ -4437,11 +4437,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "French Quarter Creek Rd CLOSED",
-        "timestamp": "2015-10-05 11:26:00"
+        "timestamp": "2015-10-05 17:00:00"
       },
       "geometry": {
         "type": "Point",
