@@ -5218,6 +5218,23 @@
           32.889605970848066
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cain Bay ALL ROUTES CLOSED",
+        "timestamp": "2015-10-05 17:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12603759765625,
+          33.105922150909976
+        ]
+      }
     }
   ]
 }
