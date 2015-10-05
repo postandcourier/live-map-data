@@ -4276,6 +4276,23 @@
           33.32597436702771
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Broughton Ave CLOSED",
+        "timestamp": "2015-10-05 11:15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7058641910553,
+          33.47939306829274
+        ]
+      }
     }
   ]
 }
