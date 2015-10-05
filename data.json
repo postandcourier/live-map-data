@@ -5104,6 +5104,23 @@
           33.02971413797121
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Butternut @ Orangeburg CLOSED",
+        "timestamp": "2015-10-05 12:22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2417802810669,
+          33.02237397156142
+        ]
+      }
     }
   ]
 }
