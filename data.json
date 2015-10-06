@@ -3514,10 +3514,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Brandywine @ Stonehaven OPEN",
+        "title": "Brandywine @ Stonehaven CAUTION",
         "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
