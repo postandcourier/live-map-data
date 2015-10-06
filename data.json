@@ -5429,6 +5429,23 @@
           33.160636790547954
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Beulah Tabernacle Dr CLOSED",
+        "timestamp": "2015-10-06 14:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94768142700195,
+          33.36759587796163
+        ]
+      }
     }
   ]
 }
