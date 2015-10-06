@@ -5622,6 +5622,23 @@
           33.05700052157311
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Dennis Ridge Rd CLOSED",
+        "timestamp": "2015-10-06 14:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95862483978271,
+          33.31435551125967
+        ]
+      }
     }
   ]
 }
