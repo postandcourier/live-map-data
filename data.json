@@ -5588,6 +5588,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cane Gully Rd 17A-402 CLOSED",
+        "timestamp": "2015-10-06 14:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90081787109374,
+          33.22777502404423
+        ]
+      }
     }
   ]
 }
