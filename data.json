@@ -5154,11 +5154,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Cammanche @ Commander CLOSED",
-        "timestamp": "2015-10-05 14:36:00"
+        "title": "Cammanche @ Commander CAUTION",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
@@ -5307,11 +5307,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Dorchester @ Rivers-Meeting CLOSED",
-        "timestamp": "2015-10-05 20:45:00"
+        "title": "Dorchester @ Rivers-Meeting OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
