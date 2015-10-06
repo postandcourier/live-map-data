@@ -5446,6 +5446,23 @@
           33.36759587796163
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Brandon Rd CLOSED",
+        "timestamp": "2015-10-06 14:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7841739654541,
+          33.22942634556873
+        ]
+      }
     }
   ]
 }
