@@ -5656,6 +5656,23 @@
           33.200810996281696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Compton Dr",
+        "timestamp": "2015-10-06 14:31:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09003162384033,
+          33.0970424068742
+        ]
+      }
     }
   ]
 }
