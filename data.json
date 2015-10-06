@@ -65,11 +65,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "S Market @  Church OPEN",
-        "timestamp": "2015-10-05 07:14:00",
+        "title": "S Market @  Church CLOSED",
+        "timestamp": "2015-10-06 16:02:00",
         "description": ""
       },
       "geometry": {
