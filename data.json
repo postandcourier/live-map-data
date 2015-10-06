@@ -1038,7 +1038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 8,
         "stroke-opacity": 1
       },
