@@ -554,11 +554,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Line @ Hagood CLOSED LANES ONLY",
-        "timestamp": "2015-10-03 01:27:20",
+        "title": "Line @ Hagood OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": ""
       },
       "geometry": {
@@ -5257,7 +5257,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 3,
         "stroke-opacity": 1
       },
