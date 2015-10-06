@@ -3675,10 +3675,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#fa8800",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Foxwood Dr NOT PASSABLE",
+        "title": "Foxwood Dr CAUTION",
         "timestamp": "2015-10-04 14:18:00"
       },
       "geometry": {
