@@ -2212,11 +2212,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Dunes West @ 41-Wando Plantation CLOSED",
-        "timestamp": "2015-10-04 09:51:00",
+        "title": "Dunes West @ 41-Wando Plantation OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": ""
       },
       "geometry": {
@@ -2599,7 +2599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -3192,11 +3192,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Appling Dr NOT PASSABLE",
-        "timestamp": "2015-10-04 09:00:00"
+        "title": "Appling Dr OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
@@ -3230,7 +3230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -3782,23 +3782,6 @@
             -80.1188278198242,
             32.969355515701196
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#fa8800",
-        "marker-size": "medium",
-        "marker-symbol": "danger",
-        "title": "41st @ Waterway POSSIBLE SEWAGE CONTAMINATION",
-        "timestamp": "2015-10-04 14:38:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.76050615310669,
-          32.80358045411563
         ]
       }
     },
