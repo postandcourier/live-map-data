@@ -3514,11 +3514,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Brandywine @ Stonehaven NOT PASSABLE",
-        "timestamp": "2015-10-04 14:06:00"
+        "title": "Brandywine @ Stonehaven OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
@@ -3692,11 +3692,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Peppercorn Ln NOT PASSABLE",
-        "timestamp": "2015-10-04 14:18:00"
+        "title": "Peppercorn Ln OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
