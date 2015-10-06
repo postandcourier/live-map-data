@@ -5809,6 +5809,23 @@
           33.18770297625693
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "POSSIBLE CLOSURE OF I-26",
+        "description": "Charleston County is considering a closure of I26 near milemarker 192. Time has not been determined. Interstate is currently open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23813247680664,
+          33.09750978419031
+        ]
+      }
     }
   ]
 }
