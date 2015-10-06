@@ -5639,6 +5639,23 @@
           33.31435551125967
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Faulk Ln CLOSED",
+        "timestamp": "2015-10-06 14:31:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.77902412414551,
+          33.200810996281696
+        ]
+      }
     }
   ]
 }
