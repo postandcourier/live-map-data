@@ -2195,10 +2195,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Brownswood @ Summertree CLOSED",
+        "title": "Brownswood @ Summertree OPEN",
         "timestamp": "2015-10-03 09:16:00"
       },
       "geometry": {
