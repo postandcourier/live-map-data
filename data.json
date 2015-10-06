@@ -4618,11 +4618,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "402 @ Carswell CLOSED",
-        "timestamp": "2015-10-05 11:50:00"
+        "title": "402 @ Carswell OPEN",
+        "timestamp": "2015-10-06 15:43:00"
       },
       "geometry": {
         "type": "Point",
