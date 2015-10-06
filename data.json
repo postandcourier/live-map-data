@@ -5275,6 +5275,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Bohicket @ Edenvale-River CLOSED",
+        "timestamp": "2015-10-06 10:53:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10595321655273,
+          32.6740608520923
+        ]
+      }
     }
   ]
 }
