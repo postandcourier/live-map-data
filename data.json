@@ -5775,6 +5775,23 @@
           33.34287990361833
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Steed Creek @ Halfway Creek CLOSED",
+        "timestamp": "2015-10-06 14:31:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.69027519226074,
+          33.06155042751177
+        ]
+      }
     }
   ]
 }
