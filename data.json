@@ -3144,11 +3144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Hwy 78 @ Ingleside Dr CLOSED",
-        "timestamp": "2015-10-04 13:43:00"
+        "title": "Hwy 78 @ Ingleside Dr OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
@@ -3760,11 +3760,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Palmetto Commerce @ Avert Trucking NOT PASSABLE",
-        "timstamp": "2015-10-04 14:18:00"
+        "title": "Palmetto Commerce @ Avert Trucking OPEN",
+        "timstamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
