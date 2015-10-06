@@ -405,7 +405,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 8,
         "stroke-opacity": 1
       },
@@ -572,11 +572,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Hagood @ Fishburne ???",
-        "timestamp": "2015-10-02 15:24:52",
+        "title": "Hagood @ Fishburne OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": ""
       },
       "geometry": {
@@ -763,7 +763,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -1185,7 +1185,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1463,7 +1463,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1606,11 +1606,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "America @ South-Reid CLOSED",
-        "timestamp": "2015-10-03 00:36:00",
+        "title": "America @ South-Reid OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": ""
       },
       "geometry": {
@@ -2010,7 +2010,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -3962,7 +3962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
