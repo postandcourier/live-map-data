@@ -1287,11 +1287,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "President @ Fishburne CLOSED",
-        "timestamp": "2015-10-03 05:00:00",
+        "title": "President @ Fishburne OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": ""
       },
       "geometry": {
