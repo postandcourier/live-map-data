@@ -5605,6 +5605,23 @@
           33.22777502404423
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Cypress Gardens @ Bridge CLOSED",
+        "timestamp": "2015-10-06 14:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95836734771727,
+          33.05700052157311
+        ]
+      }
     }
   ]
 }
