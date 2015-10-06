@@ -5236,6 +5236,23 @@
           32.891470855811974
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Oakwood @ Buist CLOSED",
+        "timestamp": "2015-10-05 20:45:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97808694839476,
+          32.87751479834979
+        ]
+      }
     }
   ]
 }
