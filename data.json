@@ -2971,10 +2971,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#fa8800",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Rivers @ Reynolds CLOSED",
+        "title": "Rivers @ Reynolds CAUTION",
         "timestamp": "2015-10-03 12:30:00"
       },
       "geometry": {
