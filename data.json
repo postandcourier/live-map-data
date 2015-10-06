@@ -972,7 +972,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -997,7 +997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
