@@ -5205,6 +5205,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Steed Creed @ Bridge CLOSED",
+        "timestamp": "2015-10-06 09:41:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.63329166173935,
+          33.03870410931067
+        ]
+      }
     }
   ]
 }
