@@ -5219,6 +5219,23 @@
           32.799287811952205
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Maxwell CLOSED",
+        "timestamp": "2015-10-05 20:45:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98658418655396,
+          32.891470855811974
+        ]
+      }
     }
   ]
 }
