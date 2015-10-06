@@ -3760,10 +3760,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff851b",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Palmetto Commerce @ Avert Trucking OPEN",
+        "title": "Palmetto Commerce @ Avert Trucking CAUTION",
         "timstamp": "2015-10-06 09:41:00"
       },
       "geometry": {
