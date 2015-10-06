@@ -5724,6 +5724,23 @@
           33.1958912297261
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Holy Ave CLOSED",
+        "timestamp": "2015-10-06 14:31:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13565063476562,
+          33.3623629143759
+        ]
+      }
     }
   ]
 }
