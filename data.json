@@ -5303,6 +5303,23 @@
           32.852822781957464
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Dorchester @ Rivers-Meeting CLOSED",
+        "timestamp": "2015-10-05 20:45:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97909545898438,
+          32.8565810980344
+        ]
+      }
     }
   ]
 }
