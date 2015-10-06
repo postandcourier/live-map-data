@@ -5286,6 +5286,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa4a31",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Viaduct @ S Hobson CLOSED",
+        "timestamp": "2015-10-05 20:45:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95772361755371,
+          32.852822781957464
+        ]
+      }
     }
   ]
 }
