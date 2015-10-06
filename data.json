@@ -5120,11 +5120,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#fa8800",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Marson St CLOSED",
-        "timestamp": "2015-10-05 13:43:00"
+        "title": "Marson St CAUTION",
+        "timestamp": "2015-10-05 20:45:00"
       },
       "geometry": {
         "type": "Point",
@@ -5137,11 +5137,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#fa8800",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Lakewood CLOSED",
-        "timestamp": "2015-10-05 13:43:00"
+        "title": "Lakewood CAUTION",
+        "timestamp": "2015-10-05 20:45:00"
       },
       "geometry": {
         "type": "Point",
