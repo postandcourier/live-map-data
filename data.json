@@ -2230,7 +2230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -2272,7 +2272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -3157,7 +3157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Main Rd @ Savannah Hwy OPEN",
@@ -3174,7 +3174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -3195,7 +3195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa8800",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -4056,7 +4056,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -4163,7 +4163,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -4208,11 +4208,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Meriners Ferry @ Arrow Wind Terrace",
-        "timestamp": "2015-10-05 09:46:28"
+        "title": "Meriners Ferry @ Arrow Wind Terrace OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
@@ -5184,11 +5184,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "17 @ Bonanza-Bees Ferry CLOSES",
-        "timestamp": "2015-10-05 17:33:00",
+        "title": "17 @ Bonanza-Bees Ferry OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": "Report"
       },
       "geometry": {
