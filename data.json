@@ -5292,6 +5292,23 @@
           32.6740608520923
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Breach Ln CLOSED",
+        "timestamp": "2015-10-06 14:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03179550170898,
+          33.40839144296227
+        ]
+      }
     }
   ]
 }
