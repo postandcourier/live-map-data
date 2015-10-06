@@ -262,7 +262,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -341,8 +341,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
-        "stroke-width": 5,
+        "stroke": "#ffdc00",
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -590,7 +590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -859,7 +859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -880,7 +880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
