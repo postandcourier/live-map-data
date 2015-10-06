@@ -1369,11 +1369,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Ashley @ Calhoun-Bull CLOSED",
-        "timestamp": "2015-10-05 09:11:28",
+        "title": "Ashley @ Calhoun-Bull OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": ""
       },
       "geometry": {
@@ -2031,11 +2031,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Rutledge @ Calhoun-Bennett CLOSED",
-        "timestamp": "2015-10-03 05:03:00"
+        "title": "Rutledge @ Calhoun-Bennett OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
