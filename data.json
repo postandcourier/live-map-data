@@ -997,7 +997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffdc00",
+        "stroke": "#ff4136",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1588,11 +1588,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Washington @ Calhoun-Hasell OPEN",
-        "timestamp": "2015-10-05 07:14:00",
+        "title": "Washington @ Calhoun-Hasell CLOSED",
+        "timestamp": "2015-10-06 16:57:00",
         "description": ""
       },
       "geometry": {
