@@ -5792,6 +5792,23 @@
           33.06155042751177
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Shulerville @ Tiger Corner CLOSED",
+        "timestamp": "2015-10-06 14:31:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.63184595108032,
+          33.18770297625693
+        ]
+      }
     }
   ]
 }
