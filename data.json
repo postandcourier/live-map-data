@@ -185,7 +185,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -2155,27 +2155,6 @@
         "coordinates": [
           -79.99767780303955,
           32.78720237019107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#fa4a31",
-        "stroke-width": 4,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.95514869689941,
-            32.8056725911295
-          ],
-          [
-            -79.95302438735962,
-            32.80605133480753
-          ]
         ]
       }
     },
