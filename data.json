@@ -101,7 +101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -320,8 +320,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
-        "stroke-width": 5,
+        "stroke": "#ffdc00",
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -450,7 +450,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -673,11 +673,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "small",
         "marker-symbol": "roadblock",
-        "title": "Gadsden @ Bennett CLOSED",
-        "timestamp": "2015-10-01 16:37:00",
+        "title": "Gadsden @ Bennett OPEN",
+        "timestamp": "2015-10-06 09:41:00",
         "description": ""
       },
       "geometry": {
@@ -691,8 +691,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
-        "stroke-width": 5,
+        "stroke": "#ffdc00",
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -805,7 +805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -922,7 +922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#fa4a31",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -951,7 +951,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff4136",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1976,11 +1976,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Beaufain @ Rutledge-Smith CLOSED",
-        "timestamp": "2015-10-05 07:14:00"
+        "title": "Beaufain @ Rutledge-Smith OPEN",
+        "timestamp": "2015-10-06 09:41:00"
       },
       "geometry": {
         "type": "Point",
