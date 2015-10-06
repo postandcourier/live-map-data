@@ -4144,11 +4144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Cainhoy Rd @ Redhill-Hwy 41 OPEN",
-        "timestamp": "2015-10-05 17:00:00"
+        "title": "Cainhoy Rd @ Redhill-Hwy 41 CLOSED",
+        "timestamp": "2015-10-06 14:04:00"
       },
       "geometry": {
         "type": "Point",
