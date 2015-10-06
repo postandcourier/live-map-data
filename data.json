@@ -4093,11 +4093,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Meriners Ferry @ Arrow Wind Terrace OPEN",
-        "timestamp": "2015-10-06 09:41:00"
+        "title": "Meriners Ferry @ Arrow Wind Terrace CLOSD",
+        "timestamp": "2015-10-06 10:53:00"
       },
       "geometry": {
         "type": "Point",
