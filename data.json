@@ -5826,6 +5826,23 @@
           32.843737274054185
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "Calhoun @ Meeting-E Bay CLOSED - GAS LEAK",
+        "timestamp": "2015-10-07 11:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93208169937134,
+          32.787617270787145
+        ]
+      }
     }
   ]
 }
