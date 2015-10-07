@@ -5809,6 +5809,23 @@
           33.18770297625693
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Martin's Boat Landing CLOSED",
+        "timestamp": "2015-10-07 10:55:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38895845413208,
+          32.843737274054185
+        ]
+      }
     }
   ]
 }
