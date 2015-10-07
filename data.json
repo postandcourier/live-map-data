@@ -555,7 +555,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Line @ Hagood OPEN",
         "timestamp": "2015-10-06 09:41:00",
@@ -573,7 +573,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Hagood @ Fishburne OPEN",
         "timestamp": "2015-10-06 09:41:00",
@@ -620,7 +620,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Crosstown OPEN",
         "timestamp": "2015-10-05 07:14:00",
@@ -638,7 +638,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "President @ Crosstown OPEN",
         "timestamp": "2015-10-05 07:14:00",
@@ -656,7 +656,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Rutledge @ Fishburne/Crosstown OPEN",
         "timestamp": "2015-10-03 5:15:00",
@@ -1288,7 +1288,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "President @ Fishburne OPEN",
         "timestamp": "2015-10-06 09:41:00",
@@ -1370,7 +1370,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Ashley @ Calhoun-Bull OPEN",
         "timestamp": "2015-10-06 09:41:00",
@@ -1589,7 +1589,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Washington @ Calhoun-Hasell CLOSED",
         "timestamp": "2015-10-06 16:57:00",
@@ -1994,7 +1994,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Morris @ Coming-Smith OPEN",
         "timestamp": "2015-10-05 07:14:00"
@@ -2032,7 +2032,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Rutledge @ Calhoun-Bennett OPEN",
         "timestamp": "2015-10-06 09:41:00"
@@ -2049,7 +2049,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Vanderhorst @ Rutledge-Coming OPEN",
         "timestamp": "2015-10-05 07:14:00"
@@ -2066,7 +2066,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Calhoun @ E Bay-Elizabeth OPEN",
         "timestamp": "2015-10-03 07:42:00"
@@ -2083,7 +2083,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "President @ Cannon-Bee OPEN",
         "timestamp": "2015-10-05 07:14:00"
@@ -2179,7 +2179,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Spring @ Kracke OPEN",
         "timestamp": "2015-10-05 07:14:00"
