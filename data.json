@@ -5830,11 +5830,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "large",
         "marker-symbol": "star",
-        "title": "Calhoun @ Meeting-E Bay CLOSED - GAS LEAK",
-        "timestamp": "2015-10-07 11:26:00"
+        "title": "Calhoun @ Meeting-E Bay REOPENED",
+        "timestamp": "2015-10-07 13:42:00"
       },
       "geometry": {
         "type": "Point",
