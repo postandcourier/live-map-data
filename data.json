@@ -66,7 +66,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "S Market @  Church OPEN",
         "timestamp": "2015-10-07 09:02:00",
@@ -84,7 +84,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "N Market @ E Bay OPEN",
         "timestamp": "2015-10-05 07:14:00",
@@ -227,7 +227,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Lockwood @ Broad OPEN",
         "timestamp": "2015-10-07 11:42:00",
@@ -245,7 +245,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Wentworth @ Barre OPEN",
         "timestamp": "2015-10-07 11:42:00",
@@ -367,7 +367,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Coming @ Wentworth OPEN",
         "timestamp": "2015-10-04 09:58:00",
@@ -725,7 +725,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Lockwood S open",
         "timestamp": "2015-10-05 07:14:00",
@@ -1270,7 +1270,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Ashley @ Broad-Tradd OPEN",
         "timestamp": "2015-10-07 11:42:00",
@@ -1977,7 +1977,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Beaufain @ Rutledge-Smith OPEN",
         "timestamp": "2015-10-06 09:41:00"
