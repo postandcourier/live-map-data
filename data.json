@@ -226,11 +226,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Lockwood @ Broad CAUTION",
-        "timestamp": "2015-10-07 09:02:00",
+        "title": "Lockwood @ Broad OPEN",
+        "timestamp": "2015-10-07 11:42:00",
         "description": ""
       },
       "geometry": {
@@ -1269,11 +1269,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Ashley @ Broad-Tradd CLOSED",
-        "timestamp": "2015-10-06 10:53:00",
+        "title": "Ashley @ Broad-Tradd OPEN",
+        "timestamp": "2015-10-07 11:42:00",
         "description": ""
       },
       "geometry": {
@@ -1351,11 +1351,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa4a31",
+        "marker-color": "#2fcc40",
         "marker-size": "small",
         "marker-symbol": "roadblock",
-        "title": "Colonial St CLOSED",
-        "timestamp": "2015-10-03 00:16:50",
+        "title": "Colonial St OPEN",
+        "timestamp": "2015-10-07 11:42:00",
         "description": ""
       },
       "geometry": {
