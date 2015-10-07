@@ -48,7 +48,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Huger @ Meeting-Senate OPEN",
         "timestamp": "2015-10-06 14:14:00",
@@ -168,7 +168,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Morrison @ Stuart-Cooper OPEN",
         "timestamp": "2015-10-05 20:45:00",
@@ -1607,7 +1607,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "America @ South-Reid OPEN",
         "timestamp": "2015-10-06 09:41:00",
@@ -1886,7 +1886,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "America @ Lee OPEN",
         "timestamp": "2015-10-05 07:14:00",
@@ -1904,7 +1904,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Drake @ South OPEN",
         "timestamp": "2015-10-06 09:41:00",
@@ -1922,7 +1922,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Huger @ President OPEN",
         "timestamp": "2015-10-05 07:14:00"
@@ -1939,7 +1939,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Aiken St OPEN",
         "timestamp": "2015-10-03 5:01:00"
@@ -2162,7 +2162,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Rutledge @ Simmons OPEN",
         "timestamp": "2015-10-05 07:14:00"
@@ -3054,7 +3054,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#2fcc40",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "I26 to Meeting St OPEN",
         "timestamp": "2015-10-04 9:22:00"
