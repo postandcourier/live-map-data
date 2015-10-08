@@ -3440,11 +3440,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Brandywine @ Stonehaven CAUTION",
-        "timestamp": "2015-10-06 09:41:00"
+        "title": "Brandywine @ Stonehaven OPEN",
+        "timestamp": "2015-10-08 13:16:00"
       },
       "geometry": {
         "type": "Point",
@@ -3550,11 +3550,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa8800",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Foxwood Dr CAUTION",
-        "timestamp": "2015-10-04 14:18:00"
+        "title": "Foxwood Dr OPEN",
+        "timestamp": "2015-10-08 13:16:00"
       },
       "geometry": {
         "type": "Point",
