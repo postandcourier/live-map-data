@@ -5488,7 +5488,9 @@
       "properties": {
         "stroke": "#39cbcc",
         "stroke-width": 10,
-        "stroke-opacity": 0.7
+        "stroke-opacity": 0.7,
+        "title": "Edisto River",
+        "description": "Charleston County is urging residents near this river to evacuate now"
       },
       "geometry": {
         "type": "LineString",
