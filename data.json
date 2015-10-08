@@ -3533,11 +3533,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa8800",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Meeting St Rd @ Delaware CAUTION",
-        "timestamp": "2015-10-05 20:45:00"
+        "title": "Meeting St Rd @ Delaware OPEN",
+        "timestamp": "2015-10-08 13:15:00"
       },
       "geometry": {
         "type": "Point",
