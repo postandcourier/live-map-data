@@ -2897,11 +2897,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa8800",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Rivers @ Reynolds CAUTION",
-        "timestamp": "2015-10-03 12:30:00"
+        "timestamp": "2015-10-08 13:15:00"
       },
       "geometry": {
         "type": "Point",
@@ -5018,11 +5018,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
         "title": "Cammanche @ Commander CAUTION",
-        "timestamp": "2015-10-06 09:41:00"
+        "timestamp": "2015-10-08 13:15:00"
       },
       "geometry": {
         "type": "Point",
@@ -5824,23 +5824,6 @@
         "coordinates": [
           -80.38895845413208,
           32.843737274054185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#2fcc40",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "Calhoun @ Meeting-E Bay REOPENED",
-        "timestamp": "2015-10-07 13:42:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93208169937134,
-          32.787617270787145
         ]
       }
     }
