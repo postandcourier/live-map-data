@@ -3104,11 +3104,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#2fcc40",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "title": "Main Rd @ Savannah Hwy CLOSED",
-        "timestamp": "2015-10-06 09:41:00"
+        "title": "Main Rd @ Savannah Hwy OPEN",
+        "timestamp": "2015-10-08 11:48:00"
       },
       "geometry": {
         "type": "Point",
