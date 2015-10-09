@@ -167,11 +167,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
+        "marker-color": "#ff4136",
         "marker-size": "small",
         "marker-symbol": "roadblock",
-        "title": "Morrison @ Stuart-Cooper OPEN",
-        "timestamp": "2015-10-05 20:45:00",
+        "title": "Morrison @ Stuart-Cooper ONE LANE CLOSED",
+        "timestamp": "2015-10-09 09:49:00",
         "description": ""
       },
       "geometry": {
