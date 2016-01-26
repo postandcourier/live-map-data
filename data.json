@@ -34,6 +34,40 @@
           32.794201303793194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "\"Faint boom\" reported",
+        "timestamp": "2016-01-26 13:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01136779785156,
+          33.19100710048419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Shaking reported in Mount Pleasant",
+        "timestamp": "2016-01-26 13:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85618591308594,
+          32.816132537537115
+        ]
+      }
     }
   ]
 }
