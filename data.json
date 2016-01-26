@@ -102,6 +102,23 @@
           32.795355714148315
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Shaking reported on Folly Beach",
+        "timestamp": "2016-01-26 13:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93995666503905,
+          32.65498522937631
+        ]
+      }
     }
   ]
 }
