@@ -136,6 +136,23 @@
           32.72230976695541
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Shaking reported in N. Chs",
+        "timestamp": "2016-01-26 13:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04810333251953,
+          32.93406422425987
+        ]
+      }
     }
   ]
 }
