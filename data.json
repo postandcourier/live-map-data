@@ -153,6 +153,23 @@
           32.93406422425987
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Boom reported on Daniel Island",
+        "timestamp": "2016-01-26 13:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91592407226561,
+          32.86488127513521
+        ]
+      }
     }
   ]
 }
