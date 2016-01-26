@@ -3,12 +3,35 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Shaking Reported",
+        "timestamp": "2016-01-26 13:04:00"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.83318328857422,
           32.76447007648388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Shaking Reported",
+        "timestamp": "2016-01-26 13:04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00724792480469,
+          32.794201303793194
         ]
       }
     }
