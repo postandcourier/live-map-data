@@ -2656,23 +2656,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0096ff",
-        "marker-size": "medium",
-        "marker-symbol": "hospital",
-        "title": "Red Cross Shelter - United Methodist Church",
-        "timestamp": "2015-10-03 11:30:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98140752315521,
-          32.88101528135541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
@@ -3436,23 +3419,6 @@
         "coordinates": [
           -80.02925276756287,
           32.919484449931474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#2fcc40",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "526 @ N Rhett OPEN",
-        "timestamp": "2015-10-05 13:43:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98555421829224,
-          32.89416450923654
         ]
       }
     },
@@ -4691,23 +4657,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "E Dolphin @ Wasp OPEN",
-        "timestamp": "2015-10-06 09:41:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.00262379646301,
-          32.889605970848066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
@@ -4737,23 +4686,6 @@
         "coordinates": [
           -80.09222030639648,
           32.799287811952205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#2fcc40",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "Maxwell OPEN",
-        "timestamp": "2015-10-06 09:41:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98658418655396,
-          32.891470855811974
         ]
       }
     },
