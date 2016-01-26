@@ -4760,23 +4760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "Oakwood @ Buist OPEN",
-        "timestamp": "2015-10-06 09:41:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.97808694839476,
-          32.87751479834979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ffdc00",
         "stroke-width": 3,
         "stroke-opacity": 1
